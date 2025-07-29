@@ -9,7 +9,7 @@ Like most Slavic languages, Czech has a complex system of declensions (*skloňov
 We lemmatize the text and the dictionary entries (here, a toponyms list) retaining triples of the from (lemma, grammatic gender, number); the latter two entries can be void. The Aho-Corasick algorithm is then applied to search for the transformed dictionary entries in the transformed text. Lemmatization is carried out by means of the UDPipe library (https://lindat.mff.cuni.cz/services/udpipe/) with the UD 2.5 Czech language model (the model manages to tokenize some terms as geographic locations, but not consistently). 
 
 ### Data
-We opted not to use the larger databases of named entities or geographic locations such as GeoNames. The toponyms base that we use is limited to the municipalities names within present-day Czech Republic and Prague districts. The data is collected from open-access datasets provided by the *Český statistický úřad* (https://csu.gov.cz/).
+We opted not to use larger databases of named entities or geographic locations such as GeoNames. The toponyms base that we use is limited to the municipalities names within present-day Czech Republic and Prague districts. Streets and public places are not included. The data is collected from the open-access datasets provided by the *Český statistický úřad* (https://csu.gov.cz/). 
 
 ### Workflow
 

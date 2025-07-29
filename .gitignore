@@ -8,6 +8,11 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+.virtual_documents/
+
 czech-pdt-ud-2.5-191206.udpipe
 
 
