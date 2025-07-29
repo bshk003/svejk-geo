@@ -1,9 +1,9 @@
 municipality,district
 Abertamy,['Ostrov']
-Adamov,"['Čáslav', 'České Budějovice', 'Blansko']"
+Adamov,"['České Budějovice', 'Čáslav', 'Blansko']"
 Adršpach,['Broumov']
 Albertov,['Praha']
-Albrechtice,"['Lanškroun', 'Havířov']"
+Albrechtice,"['Havířov', 'Lanškroun']"
 Albrechtice nad Orlicí,['Kostelec nad Orlicí']
 Albrechtice nad Vltavou,['Písek']
 Albrechtice v Jizerských horách,['Tanvald']
@@ -25,7 +25,7 @@ Baarova,['Praha']
 Baba,['Praha']
 Baba II,['Praha']
 Baba III,['Praha']
-Babice,"['Říčany', 'Prachatice', 'Nový Bydžov', 'Moravské Budějovice', 'Šternberk', 'Uherské Hradiště']"
+Babice,"['Šternberk', 'Říčany', 'Nový Bydžov', 'Moravské Budějovice', 'Uherské Hradiště', 'Prachatice']"
 Babice nad Svitavou,['Šlapanice']
 Babice u Rosic,['Rosice']
 Babylon,['Domažlice']
@@ -71,11 +71,11 @@ Bechyně,['Tábor']
 Bedihošť,['Prostějov']
 Bednárec,['Jindřichův Hradec']
 Bednáreček,['Jindřichův Hradec']
-Bedřichov,"['Jablonec nad Nisou', 'Boskovice']"
+Bedřichov,"['Boskovice', 'Jablonec nad Nisou']"
 Belárie,['Praha']
 Benecko,['Jilemnice']
 Benetice,['Třebíč']
-Benešov,"['Benešov', 'Boskovice']"
+Benešov,"['Boskovice', 'Benešov']"
 Benešov nad Ploučnicí,['Děčín']
 Benešov nad Černou,['Kaplice']
 Benešov u Semil,['Semily']
@@ -85,14 +85,14 @@ Benátky,"['Hradec Králové', 'Litomyšl']"
 Benátky nad Jizerou,['Mladá Boleslav']
 Beranov,['Praha']
 Bernardov,['Kutná Hora']
-Bernartice,"['Vlašim', 'Milevsko', 'Trutnov', 'Jeseník']"
+Bernartice,"['Trutnov', 'Vlašim', 'Milevsko', 'Jeseník']"
 Bernartice nad Odrou,['Nový Jičín']
 Beroun,['Beroun']
 Besednice,['Kaplice']
 Betlémský obvod,['Praha']
 Bezdružice,['Stříbro']
 Bezdědovice,['Blatná']
-Bezděkov,"['Klatovy', 'Rokycany', 'Pardubice', 'Chotěboř']"
+Bezděkov,"['Chotěboř', 'Klatovy', 'Rokycany', 'Pardubice']"
 Bezděkov nad Metují,['Náchod']
 Bezděkov pod Třemšínem,['Příbram']
 Bezděz,['Česká Lípa']
@@ -109,7 +109,7 @@ Bečváry,['Kolín']
 Beňov,['Přerov']
 Beřovice,['Slaný']
 Biskoupky,['Ivančice']
-Biskupice,"['Chrudim', 'Moravská Třebová', 'Prostějov', 'Luhačovice']"
+Biskupice,"['Chrudim', 'Luhačovice', 'Prostějov', 'Moravská Třebová']"
 Biskupice-Pulkov,['Třebíč']
 Bitozeves,['Žatec']
 Biřkov,['Klatovy']
@@ -120,12 +120,12 @@ Blatec,['Olomouc']
 Blatnice,"['Nýřany', 'Moravské Budějovice']"
 Blatnice pod Svatým Antonínkem,['Veselí nad Moravou']
 Blatnička,['Veselí nad Moravou']
-Blatno,"['Chomutov', 'Podbořany']"
+Blatno,"['Podbořany', 'Chomutov']"
 Blatná,['Blatná']
 Blazice,['Bystřice pod Hostýnem']
 Blažejov,['Jindřichův Hradec']
 Blažejovice,['Vlašim']
-Blažim,"['Nýřany', 'Žatec']"
+Blažim,"['Žatec', 'Nýřany']"
 Blažkov,['Bystřice nad Pernštejnem']
 Blažovice,['Šlapanice']
 Blevice,['Kladno']
@@ -149,9 +149,7 @@ Bochoř,['Přerov']
 Boharyně,['Hradec Králové']
 Bohatice,['Česká Lípa']
 Bohaté Málkovice,['Bučovice']
-Bohdalec,['Žďár nad Sázavou']
-Bohdalec-jih,['Praha']
-Bohdalec-sever,['Praha']
+Bohdalec,"['Žďár nad Sázavou', 'Praha']"
 Bohdalecké kolonie,['Praha']
 Bohdalice-Pavlovice,['Vyškov']
 Bohdalov,['Žďár nad Sázavou']
@@ -162,19 +160,18 @@ Bohdašín,['Dobruška']
 Bohdíkov,['Šumperk']
 Bohnice,['Praha']
 Bohnice-Zámky,['Praha']
-Bohnice-sever,['Praha']
 Bohnice-ústav,['Praha']
 Bohostice,['Příbram']
 Bohumilice,['Vimperk']
 Bohumín,['Bohumín']
 Bohunice,['Prachatice']
-Bohuslavice,"['Nové Město nad Metují', 'Telč', 'Konice', 'Zábřeh', 'Hlučín']"
+Bohuslavice,"['Telč', 'Nové Město nad Metují', 'Konice', 'Hlučín', 'Zábřeh']"
 Bohuslavice nad Vláří,['Luhačovice']
 Bohuslavice u Zlína,['Zlín']
 Bohuslávky,['Lipník nad Bečvou']
 Bohutice,['Moravský Krumlov']
 Bohutín,"['Příbram', 'Šumperk']"
-Bohuňov,"['Svitavy', 'Bystřice nad Pernštejnem']"
+Bohuňov,"['Bystřice nad Pernštejnem', 'Svitavy']"
 Bohuňovice,"['Litomyšl', 'Olomouc']"
 Bohušice,['Moravské Budějovice']
 Bohušov,['Krnov']
@@ -196,21 +193,21 @@ Bor,['Tachov']
 Bor u Skutče,['Chrudim']
 Borač,['Tišnov']
 Bordovice,['Frenštát pod Radhoštěm']
-Borek,"['Brandýs n. Lab.-St.Boleslav', 'České Budějovice', 'Hořice', 'Pardubice', 'Chotěboř']"
+Borek,"['České Budějovice', 'Chotěboř', 'Pardubice', 'Brandýs n. Lab.-St.Boleslav', 'Hořice']"
 Boreč,['Mladá Boleslav']
 Borkovany,['Hustopeče']
 Borkovice,['Soběslav']
 Borohrádek,['Kostelec nad Orlicí']
-Borotice,"['Dobříš', 'Znojmo']"
+Borotice,"['Znojmo', 'Dobříš']"
 Borotín,"['Tábor', 'Boskovice']"
-Borovany,"['Milevsko', 'Trhové Sviny']"
-Borovnice,"['Vlašim', 'České Budějovice', 'Dvůr Králové nad Labem', 'Kostelec nad Orlicí', 'Nové Město na Moravě']"
+Borovany,"['Trhové Sviny', 'Milevsko']"
+Borovnice,"['České Budějovice', 'Vlašim', 'Dvůr Králové nad Labem', 'Nové Město na Moravě', 'Kostelec nad Orlicí']"
 Borovnička,['Dvůr Králové nad Labem']
 Borovno,['Blovice']
 Borovná,['Telč']
 Borovník,['Tišnov']
 Borovy,['Přeštice']
-Borová,"['Náchod', 'Polička']"
+Borová,"['Polička', 'Náchod']"
 Borová Lada,['Vimperk']
 Borušov,['Moravská Třebová']
 Bory,['Velké Meziříčí']
@@ -229,7 +226,7 @@ Bozkov,['Semily']
 Boňkov,['Havlíčkův Brod']
 Bořanovice,['Brandýs n. Lab.-St.Boleslav']
 Bořenovice,['Holešov']
-Bořetice,"['Pelhřimov', 'Hustopeče']"
+Bořetice,"['Hustopeče', 'Pelhřimov']"
 Bořetín,"['Jindřichův Hradec', 'Pelhřimov']"
 Bořice,['Chrudim']
 Bořislav,['Teplice']
@@ -266,13 +263,12 @@ Brantice,['Krnov']
 Braník,['Praha']
 Braník-Na křížku,['Praha']
 Braník-Nad lomem,['Praha']
-Braník-jih,['Praha']
 Braník-pobřeží,['Praha']
 Braník-střed,['Praha']
 Braníškov,['Tišnov']
 Branžež,['Mnichovo Hradiště']
 Bratkovice,['Příbram']
-Bratronice,"['Kladno', 'Blatná']"
+Bratronice,"['Blatná', 'Kladno']"
 Bratrušov,['Šumperk']
 Bratčice,"['Čáslav', 'Židlochovice']"
 Bratřejov,['Vizovice']
@@ -283,7 +279,7 @@ Bravantice,['Bílovec']
 Braňany,['Most']
 Braškov,['Kladno']
 Bražec,['Karlovy Vary']
-Brloh,"['Český Krumlov', 'Přelouč']"
+Brloh,"['Přelouč', 'Český Krumlov']"
 Brniště,['Česká Lípa']
 Brno,['Brno']
 Brníčko,['Zábřeh']
@@ -297,7 +293,7 @@ Brodek u Konice,['Konice']
 Brodek u Prostějova,['Prostějov']
 Brodek u Přerova,['Přerov']
 Brodeslavy,['Kralovice']
-Broumov,"['Tachov', 'Broumov']"
+Broumov,"['Broumov', 'Tachov']"
 Broumy,['Beroun']
 Brozany nad Ohří,['Litoměřice']
 Brtnice,['Jihlava']
@@ -321,9 +317,9 @@ Bublava,['Kraslice']
 Bubny,['Praha']
 Bubovice,['Beroun']
 Buchlovice,['Uherské Hradiště']
-Budeč,"['Dačice', 'Žďár nad Sázavou']"
+Budeč,"['Žďár nad Sázavou', 'Dačice']"
 Budiměřice,['Nymburk']
-Budislav,"['Soběslav', 'Litomyšl']"
+Budislav,"['Litomyšl', 'Soběslav']"
 Budišov,['Třebíč']
 Budišov nad Budišovkou,['Vítkov']
 Budišovice,['Opava']
@@ -334,17 +330,16 @@ Budyně nad Ohří,['Roudnice nad Labem']
 Budíkov,['Humpolec']
 Budíškovice,['Dačice']
 Budčeves,['Jičín']
-Budějovická-východ,['Praha']
-Budějovická-západ,['Praha']
+Budějovická,['Praha']
 Budětice,['Sušice']
 Budětsko,['Konice']
 Bujanov,['Kaplice']
 Bujesily,['Rokycany']
-Buk,"['Vimperk', 'Přerov']"
+Buk,"['Přerov', 'Vimperk']"
 Bukov,['Bystřice nad Pernštejnem']
-Bukovany,"['Benešov', 'Příbram', 'Sokolov', 'Kyjov', 'Olomouc']"
-Bukovec,"['Stod', 'Jablunkov']"
-Bukovice,"['Náchod', 'Tišnov']"
+Bukovany,"['Benešov', 'Kyjov', 'Příbram', 'Sokolov', 'Olomouc']"
+Bukovec,"['Jablunkov', 'Stod']"
+Bukovice,"['Tišnov', 'Náchod']"
 Bukovina,['Blansko']
 Bukovina nad Labem,['Pardubice']
 Bukovina u Přelouče,['Přelouč']
@@ -376,7 +371,7 @@ Bystrovany,['Olomouc']
 Bystročice,['Olomouc']
 Bystrá,['Humpolec']
 Bystrá nad Jizerou,['Semily']
-Bystré,"['Dobruška', 'Polička']"
+Bystré,"['Polička', 'Dobruška']"
 Bystřany,['Teplice']
 Bystřec,['Žamberk']
 Bystřice,"['Benešov', 'Jičín', 'Třinec']"
@@ -400,7 +395,7 @@ Bílovec,['Bílovec']
 Bílovice,['Uherské Hradiště']
 Bílovice nad Svitavou,['Šlapanice']
 Bílovice-Lutotín,['Prostějov']
-Bílsko,"['Vodňany', 'Litovel']"
+Bílsko,"['Litovel', 'Vodňany']"
 Bílsko u Hořic,['Hořice']
 Bílá,"['Liberec', 'Frýdlant nad Ostravicí']"
 Bílá Hlína,['Mnichovo Hradiště']
@@ -429,19 +424,18 @@ Býšovec,['Bystřice nad Pernštejnem']
 Býšť,['Holice']
 Běchary,['Jičín']
 Běchovice,['Praha']
-Běchovice-jih,['Praha']
 Běchovice-za tratí,['Praha']
 Běchovice-ústavy,['Praha']
 Běhařov,['Klatovy']
 Běhařovice,['Znojmo']
-Běleč,"['Kladno', 'Tábor', 'Tišnov']"
+Běleč,"['Tábor', 'Tišnov', 'Kladno']"
 Běleč nad Orlicí,['Hradec Králové']
 Bělkovice-Lašťany,['Olomouc']
 Běloky,['Kladno']
 Bělotín,['Hranice']
 Bělov,['Otrokovice']
-Bělušice,"['Kolín', 'Most']"
-Bělá,"['Semily', 'Pelhřimov', 'Světlá nad Sázavou', 'Hlučín']"
+Bělušice,"['Most', 'Kolín']"
+Bělá,"['Semily', 'Světlá nad Sázavou', 'Hlučín', 'Pelhřimov']"
 Bělá nad Radbuzou,['Domažlice']
 Bělá nad Svitavou,['Svitavy']
 Bělá pod Bezdězem,['Mladá Boleslav']
@@ -462,27 +456,25 @@ Břestek,['Uherské Hradiště']
 Břevnice,['Havlíčkův Brod']
 Břevnov,['Praha']
 Březejc,['Velké Meziříčí']
-Březina,"['Mnichovo Hradiště', 'Jindřichův Hradec', 'Rokycany', 'Jičín', 'Moravská Třebová', 'Šlapanice', 'Tišnov']"
+Březina,"['Tišnov', 'Moravská Třebová', 'Jičín', 'Šlapanice', 'Mnichovo Hradiště', 'Jindřichův Hradec', 'Rokycany']"
 Březina (vojenský újezd),['Vyškov']
 Březinky,['Moravská Třebová']
 Březiny,['Polička']
 Březiněves,['Praha']
-Březiněves-východ,['Praha']
-Březiněves-západ,['Praha']
-Březnice,"['Příbram', 'Tábor', 'Zlín']"
+Březnice,"['Tábor', 'Příbram', 'Zlín']"
 Březno,"['Mladá Boleslav', 'Chomutov']"
 Březník,['Náměšť nad Oslavou']
 Březolupy,['Uherské Hradiště']
 Březovice,['Mladá Boleslav']
-Březová,"['Hořovice', 'Karlovy Vary', 'Sokolov', 'Uherský Brod', 'Vizovice', 'Vítkov']"
+Březová,"['Hořovice', 'Vítkov', 'Karlovy Vary', 'Uherský Brod', 'Vizovice', 'Sokolov']"
 Březová nad Svitavou,['Svitavy']
 Březová-Oleško,['Černošice']
 Březsko,['Konice']
 Březské,['Velké Meziříčí']
-Březí,"['Říčany', 'Blatná', 'Velké Meziříčí', 'Mikulov']"
+Březí,"['Velké Meziříčí', 'Blatná', 'Říčany', 'Mikulov']"
 Březí nad Oslavou,['Žďár nad Sázavou']
 Březůvky,['Zlín']
-Břežany,"['Rakovník', 'Horažďovice', 'Znojmo']"
+Břežany,"['Znojmo', 'Rakovník', 'Horažďovice']"
 Břežany I,['Kolín']
 Břežany Ii,['Český Brod']
 Břidličná,['Rýmařov']
@@ -510,17 +502,12 @@ Cetyně,['Příbram']
 Chabařovice,['Ústí nad Labem']
 Chabeřice,['Kutná Hora']
 Chabry,['Praha']
-Chabry-východ,['Praha']
-Chaby I-východ,['Praha']
-Chaby I-západ,['Praha']
+Chaby I,['Praha']
 Chaby II,['Praha']
-Chaby III-východ,['Praha']
-Chaby III-západ,['Praha']
-Chaby IV-východ,['Praha']
-Chaby IV-západ,['Praha']
+Chaby III,['Praha']
+Chaby IV,['Praha']
 Chaby V,['Praha']
-Chaby VI-východ,['Praha']
-Chaby VI-západ,['Praha']
+Chaby VI,['Praha']
 Chaloupky,['Hořovice']
 Chanovice,['Horažďovice']
 Charvatce,['Mladá Boleslav']
@@ -533,7 +520,7 @@ Chlebičov,['Opava']
 Chleby,"['Benešov', 'Nymburk']"
 Chleny,['Kostelec nad Orlicí']
 Chlistov,['Klatovy']
-Chlum,"['Vlašim', 'Blatná', 'Blovice', 'Rokycany', 'Česká Lípa', 'Třebíč']"
+Chlum,"['Vlašim', 'Blatná', 'Česká Lípa', 'Třebíč', 'Rokycany', 'Blovice']"
 Chlum Svaté Maří,['Sokolov']
 Chlum u Třeboně,['Třeboň']
 Chlum-Korouhvice,['Bystřice nad Pernštejnem']
@@ -546,7 +533,7 @@ Chlumín,['Neratovice']
 Chlumčany,"['Přeštice', 'Louny']"
 Chlumětín,['Žďár nad Sázavou']
 Chlustina,['Hořovice']
-Chlístov,"['Benešov', 'Dobruška', 'Třebíč']"
+Chlístov,"['Třebíč', 'Benešov', 'Dobruška']"
 Chlístovice,['Kutná Hora']
 Chmelnice,['Praha']
 Chmelná,['Vlašim']
@@ -559,10 +546,8 @@ Chocnějovice,['Mnichovo Hradiště']
 Chocomyšl,['Domažlice']
 Chodouny,['Roudnice nad Labem']
 Chodouň,['Beroun']
-Chodov,"['Domažlice', 'Karlovy Vary', 'Sokolov', 'Praha']"
+Chodov,"['Karlovy Vary', 'Praha', 'Domažlice', 'Sokolov']"
 Chodov-u dálnice,['Praha']
-Chodov-východ,['Praha']
-Chodov-západ,['Praha']
 Chodovec,['Praha']
 Chodovlice,['Lovosice']
 Chodová Planá,['Tachov']
@@ -574,8 +559,7 @@ Choltice,['Přelouč']
 Cholupice,['Praha']
 Cholupice-u Libušského potoka,['Praha']
 Cholupická bažantnice,['Praha']
-Cholupický vrch-východ,['Praha']
-Cholupický vrch-západ,['Praha']
+Cholupický vrch,['Praha']
 Chomle,['Rokycany']
 Chomutice,['Hořice']
 Chomutov,['Chomutov']
@@ -588,7 +572,7 @@ Choteč,"['Černošice', 'Jičín', 'Pardubice']"
 Chotilsko,['Dobříš']
 Chotiměř,['Lovosice']
 Chotiněves,['Litoměřice']
-Chotovice,"['Nový Bor', 'Litomyšl']"
+Chotovice,"['Litomyšl', 'Nový Bor']"
 Chotoviny,['Tábor']
 Chotusice,['Čáslav']
 Chotutice,['Kolín']
@@ -604,7 +588,7 @@ Chotěnov,['Litomyšl']
 Chotětov,['Mladá Boleslav']
 Chotěvice,['Trutnov']
 Chotěšice,['Poděbrady']
-Chotěšov,"['Stod', 'Lovosice']"
+Chotěšov,"['Lovosice', 'Stod']"
 Choustník,['Tábor']
 Choustníkovo Hradiště,['Dvůr Králové nad Labem']
 Choťovice,['Kolín']
@@ -627,15 +611,14 @@ Chrtníč,['Havlíčkův Brod']
 Chrudichromy,['Boskovice']
 Chrudim,['Chrudim']
 Chrustenice,['Beroun']
-Chrást,"['Nymburk', 'Příbram', 'Plzeň']"
-Chrášťany,"['Benešov', 'Černošice', 'Český Brod', 'Rakovník', 'Týn nad Vltavou']"
+Chrást,"['Plzeň', 'Příbram', 'Nymburk']"
+Chrášťany,"['Týn nad Vltavou', 'Benešov', 'Český Brod', 'Černošice', 'Rakovník']"
 Chrášťovice,['Strakonice']
 Chržín,['Slaný']
 Chuchelna,['Semily']
 Chuchelná,['Kravaře']
 Chuchelský háj,['Praha']
 Chuchelský háj-Doly,['Praha']
-Chuchelský háj-západ,['Praha']
 Chudenice,['Klatovy']
 Chudenín,['Klatovy']
 Chuderov,['Ústí nad Labem']
@@ -646,9 +629,9 @@ Chudčice,['Kuřim']
 Chvalatice,['Znojmo']
 Chvaletice,['Přelouč']
 Chvaleč,['Trutnov']
-Chvalkovice,"['Jaroměř', 'Bučovice']"
+Chvalkovice,"['Bučovice', 'Jaroměř']"
 Chvalnov-Lísky,['Kroměříž']
-Chvalovice,"['Prachatice', 'Znojmo']"
+Chvalovice,"['Znojmo', 'Prachatice']"
 Chvaly,['Praha']
 Chvalíkovice,['Opava']
 Chvalčov,['Bystřice pod Hostýnem']
@@ -686,8 +669,8 @@ Ctiměřice,['Mladá Boleslav']
 Ctiněves,['Roudnice nad Labem']
 Ctětín,['Chrudim']
 Cvikov,['Nový Bor']
-Cvrčovice,"['Kladno', 'Pohořelice']"
-Církvice,"['Kolín', 'Kutná Hora']"
+Cvrčovice,"['Pohořelice', 'Kladno']"
+Církvice,"['Kutná Hora', 'Kolín']"
 Císařov,['Přerov']
 Císařská louka,['Praha']
 Císařský ostrov I,['Praha']
@@ -731,7 +714,7 @@ Dlouhopolsko,['Poděbrady']
 Dlouhoňovice,['Žamberk']
 Dlouhá Brtnice,['Jihlava']
 Dlouhá Lhota,"['Mladá Boleslav', 'Příbram', 'Tábor', 'Blansko']"
-Dlouhá Loučka,"['Moravská Třebová', 'Uničov']"
+Dlouhá Loučka,"['Uničov', 'Moravská Třebová']"
 Dlouhá Stráň,['Bruntál']
 Dlouhá Třebová,['Ústí nad Orlicí']
 Dlouhá Ves,"['Sušice', 'Havlíčkův Brod']"
@@ -760,7 +743,7 @@ Dobročkovice,['Bučovice']
 Dobročovice,['Brandýs n. Lab.-St.Boleslav']
 Dobruška,['Dobruška']
 Dobrá,['Frýdek-Místek']
-Dobrá Voda,"['Pelhřimov', 'Velké Meziříčí']"
+Dobrá Voda,"['Velké Meziříčí', 'Pelhřimov']"
 Dobrá Voda u Hořic,['Hořice']
 Dobrá Voda u Pacova,['Pacov']
 Dobrá Voda u Českých Budějovic,['České Budějovice']
@@ -768,7 +751,7 @@ Dobré,['Dobruška']
 Dobré Pole,['Mikulov']
 Dobrčice,['Přerov']
 Dobršín,['Sušice']
-Dobřany,"['Stod', 'Dobruška']"
+Dobřany,"['Dobruška', 'Stod']"
 Dobřejovice,['Říčany']
 Dobřenice,['Hradec Králové']
 Dobřeň,['Mělník']
@@ -780,12 +763,12 @@ Dobřív,['Rokycany']
 Dobříč,"['Černošice', 'Kralovice']"
 Dobříň,['Roudnice nad Labem']
 Dobříš,['Dobříš']
-Dobšice,"['Poděbrady', 'Týn nad Vltavou', 'Znojmo']"
+Dobšice,"['Znojmo', 'Poděbrady', 'Týn nad Vltavou']"
 Dobšín,['Mladá Boleslav']
 Dohalice,['Hradec Králové']
 Doksany,['Roudnice nad Labem']
 Doksy,"['Kladno', 'Česká Lípa']"
-Dolany,"['Kladno', 'Klatovy', 'Nýřany', 'Jaroměř', 'Pardubice', 'Olomouc']"
+Dolany,"['Kladno', 'Klatovy', 'Nýřany', 'Pardubice', 'Jaroměř', 'Olomouc']"
 Dolany nad Vltavou,['Kralupy nad Vltavou']
 Dolce,['Přeštice']
 Dolenice,['Moravský Krumlov']
@@ -837,13 +820,9 @@ Dolní Morava,['Králíky']
 Dolní Moravice,['Rýmařov']
 Dolní Měcholupy,['Praha']
 Dolní Měcholupy-Malý háj,['Praha']
-Dolní Měcholupy-jih,['Praha']
 Dolní Měcholupy-průmyslový obvod,['Praha']
-Dolní Měcholupy-sever,['Praha']
 Dolní Měcholupy-střed,['Praha']
-Dolní Měcholupy-východ,['Praha']
 Dolní Měcholupy-za tratí,['Praha']
-Dolní Měcholupy-západ,['Praha']
 Dolní Město,['Světlá nad Sázavou']
 Dolní Nivy,['Sokolov']
 Dolní Novosedly,['Písek']
@@ -854,7 +833,6 @@ Dolní Podluží,['Varnsdorf']
 Dolní Pohleď,['Kutná Hora']
 Dolní Poustevna,['Rumburk']
 Dolní Počernice,['Praha']
-Dolní Počernice-sever,['Praha']
 Dolní Pěna,['Jindřichův Hradec']
 Dolní Přím,['Hradec Králové']
 Dolní Radechová,['Náchod']
@@ -883,7 +861,7 @@ Dolní Ředice,['Holice']
 Dolní Žandov,['Cheb']
 Dolní Životice,['Opava']
 Dolní Žďár,['Jindřichův Hradec']
-Doloplazy,"['Olomouc', 'Prostějov']"
+Doloplazy,"['Prostějov', 'Olomouc']"
 Dolánky nad Ohří,['Litoměřice']
 Domamil,['Moravské Budějovice']
 Domanín,"['Třeboň', 'Kyjov']"
@@ -900,7 +878,7 @@ Dománovice,['Kolín']
 Doubek,['Říčany']
 Doubice,['Rumburk']
 Doubrava,['Orlová']
-Doubravice,"['České Budějovice', 'Strakonice', 'Dvůr Králové nad Labem']"
+Doubravice,"['Strakonice', 'České Budějovice', 'Dvůr Králové nad Labem']"
 Doubravice nad Svitavou,['Blansko']
 Doubravička,['Mladá Boleslav']
 Doubravník,['Tišnov']
@@ -913,9 +891,8 @@ Doupě,['Telč']
 Doňov,['Jindřichův Hradec']
 Drachkov,['Strakonice']
 Drahanovice,['Olomouc']
+Drahanská rokle,['Praha']
 Drahanská rokle-střed,['Praha']
-Drahanská rokle-východ,['Praha']
-Drahanská rokle-západ,['Praha']
 Drahany,['Prostějov']
 Drahelčice,['Černošice']
 Drahenice,['Příbram']
@@ -935,7 +912,7 @@ Draženov,['Domažlice']
 Dražeň,['Kralovice']
 Dražice,['Tábor']
 Dražičky,['Tábor']
-Dražovice,"['Sušice', 'Bučovice']"
+Dražovice,"['Bučovice', 'Sušice']"
 Dražíč,['Týn nad Vltavou']
 Dražůvky,['Kyjov']
 Drevníky,['Dobříš']
@@ -945,12 +922,12 @@ Drhovy,['Dobříš']
 Drmoul,['Mariánské Lázně']
 Drnek,['Slaný']
 Drnholec,['Mikulov']
-Drnovice,"['Boskovice', 'Vyškov', 'Valašské Klobouky']"
+Drnovice,"['Boskovice', 'Valašské Klobouky', 'Vyškov']"
 Drobovice,['Čáslav']
 Droužetice,['Strakonice']
 Droužkovice,['Chomutov']
 Drozdov,"['Hořovice', 'Zábřeh']"
-Drslavice,"['Prachatice', 'Uherský Brod']"
+Drslavice,"['Uherský Brod', 'Prachatice']"
 Druhanov,['Světlá nad Sázavou']
 Drunče,['Jindřichův Hradec']
 Druztová,['Nýřany']
@@ -1018,7 +995,7 @@ Dětenice,['Jičín']
 Dětkovice,"['Vyškov', 'Prostějov']"
 Dětmarovice,['Karviná']
 Dětský ostrov,['Praha']
-Dětřichov,"['Frýdlant', 'Svitavy']"
+Dětřichov,"['Svitavy', 'Frýdlant']"
 Dětřichov nad Bystřicí,['Bruntál']
 Dětřichov u Moravské Třebové,['Moravská Třebová']
 Děčany,['Lovosice']
@@ -1030,7 +1007,7 @@ Dřevohostice,['Přerov']
 Dřevčice,['Brandýs n. Lab.-St.Boleslav']
 Dřevěnice,['Jičín']
 Dřešín,['Strakonice']
-Dřínov,"['Kralupy nad Vltavou', 'Slaný', 'Kroměříž']"
+Dřínov,"['Kroměříž', 'Kralupy nad Vltavou', 'Slaný']"
 Dřísy,['Brandýs n. Lab.-St.Boleslav']
 Dříteč,['Pardubice']
 Dříteň,['České Budějovice']
@@ -1045,8 +1022,7 @@ Evaň,['Lovosice']
 Eš,['Pacov']
 Felbabka,['Hořovice']
 Fidlovačka,['Praha']
-Folimanka-východ,['Praha']
-Folimanka-západ,['Praha']
+Folimanka,['Praha']
 Frahelž,['Třeboň']
 Francouzská-Voroněžská,['Praha']
 Francova Lhota,['Vsetín']
@@ -1070,7 +1046,7 @@ Grygov,['Olomouc']
 Grymov,['Přerov']
 Habartice,['Frýdlant']
 Habartov,['Sokolov']
-Habrovany,"['Ústí nad Labem', 'Vyškov']"
+Habrovany,"['Vyškov', 'Ústí nad Labem']"
 Habry,['Havlíčkův Brod']
 Habrůvka,['Blansko']
 Habřina,['Hradec Králové']
@@ -1085,13 +1061,13 @@ Halámky,['Třeboň']
 Halže,['Tachov']
 Hamr,['Třeboň']
 Hamr na Jezeře,['Česká Lípa']
-Hamry,"['Klatovy', 'Hlinsko']"
+Hamry,"['Hlinsko', 'Klatovy']"
 Hamry nad Sázavou,['Žďár nad Sázavou']
 Hanspaulka,['Praha']
 Hanušovice,['Šumperk']
 Harrachov,['Tanvald']
 Hartinkov,['Moravská Třebová']
-Hartmanice,"['Týn nad Vltavou', 'Sušice', 'Polička']"
+Hartmanice,"['Polička', 'Sušice', 'Týn nad Vltavou']"
 Hartvíkovice,['Náměšť nad Oslavou']
 Hatín,['Jindřichův Hradec']
 Havlovice,['Trutnov']
@@ -1108,25 +1084,25 @@ Haňovice,['Litovel']
 Haškovcova Lhota,['Tábor']
 Haštalský obvod,['Praha']
 Hať,['Hlučín']
-Hejnice,"['Frýdlant', 'Žamberk']"
+Hejnice,"['Žamberk', 'Frýdlant']"
 Hejná,['Horažďovice']
 Hejtmánkovice,['Broumov']
 Helvíkovice,['Žamberk']
 Heraltice,['Třebíč']
 Herink,['Říčany']
 Heroltice,['Tišnov']
-Herálec,"['Havlíčkův Brod', 'Žďár nad Sázavou']"
+Herálec,"['Žďár nad Sázavou', 'Havlíčkův Brod']"
 Heršpice,['Slavkov u Brna']
 Hevlín,['Znojmo']
 Heřmaneč,['Dačice']
-Heřmanice,"['Frýdlant', 'Jaroměř', 'Chotěboř']"
+Heřmanice,"['Jaroměř', 'Frýdlant', 'Chotěboř']"
 Heřmanice u Oder,['Odry']
 Heřmaničky,['Votice']
-Heřmanov,"['Děčín', 'Velké Meziříčí']"
+Heřmanov,"['Velké Meziříčí', 'Děčín']"
 Heřmanova Huť,['Nýřany']
 Heřmanovice,['Krnov']
 Heřmanův Městec,['Chrudim']
-Heřmaň,"['České Budějovice', 'Písek']"
+Heřmaň,"['Písek', 'České Budějovice']"
 Heřmánkovice,['Broumov']
 Heřmánky,['Odry']
 Hladké Životice,['Nový Jičín']
@@ -1138,7 +1114,6 @@ Hlavečník,['Přelouč']
 Hlavice,['Liberec']
 Hlavnice,['Opava']
 Hlavní nádraží,['Praha']
-Hlavní nádraží-západ,['Praha']
 Hlavňovice,['Sušice']
 Hlince,['Kralovice']
 Hlincová Hora,['České Budějovice']
@@ -1152,9 +1127,7 @@ Hlohovčice,['Horšovský Týn']
 Hloubětín,['Praha']
 Hloubětín-Kolbenova,['Praha']
 Hloubětín-Tábor,['Praha']
-Hloubětín-Tábor-východ,['Praha']
 Hloubětín-průmyslový obvod,['Praha']
-Hloubětín-sever,['Praha']
 Hloubětín-u teplárny,['Praha']
 Hluboká,['Chrudim']
 Hluboká nad Vltavou,['České Budějovice']
@@ -1194,10 +1167,8 @@ Hodkovice nad Mohelkou,['Liberec']
 Hodkovičky,['Praha']
 Hodkovičky-Zátiší,['Praha']
 Hodkovičky-pobřeží,['Praha']
-Hodkovičky-východ,['Praha']
-Hodkovičky-západ,['Praha']
 Hodonice,"['Tábor', 'Znojmo']"
-Hodonín,"['Chrudim', 'Boskovice', 'Hodonín']"
+Hodonín,"['Boskovice', 'Chrudim', 'Hodonín']"
 Hodov,['Třebíč']
 Hodslavice,['Nový Jičín']
 Hodíškov,['Žďár nad Sázavou']
@@ -1225,8 +1196,6 @@ Holovousy,"['Kralovice', 'Hořice']"
 Holubice,"['Černošice', 'Slavkov u Brna']"
 Holubov,['Český Krumlov']
 Holyně,['Praha']
-Holyně-jih,['Praha']
-Holyně-východ,['Praha']
 Holín,['Jičín']
 Holýšov,['Stod']
 Holčovice,['Krnov']
@@ -1247,7 +1216,7 @@ Horka I,['Čáslav']
 Horka Ii,['Kutná Hora']
 Horka nad Moravou,['Olomouc']
 Horka u Staré Paky,['Jilemnice']
-Horky,"['Čáslav', 'Litomyšl']"
+Horky,"['Litomyšl', 'Čáslav']"
 Horky nad Jizerou,['Mladá Boleslav']
 Hornice,['Moravské Budějovice']
 Hornoměcholupská,['Praha']
@@ -1304,11 +1273,7 @@ Horní Meziříčko,['Dačice']
 Horní Moštěnice,['Přerov']
 Horní Myslová,['Telč']
 Horní Měcholupy,['Praha']
-Horní Měcholupy-jih,['Praha']
-Horní Měcholupy-sever,['Praha']
 Horní Měcholupy-střed,['Praha']
-Horní Měcholupy-východ,['Praha']
-Horní Měcholupy-západ,['Praha']
 Horní Město,['Rýmařov']
 Horní Němčice,['Dačice']
 Horní Němčí,['Uherský Brod']
@@ -1320,10 +1285,8 @@ Horní Podluží,['Varnsdorf']
 Horní Police,['Česká Lípa']
 Horní Počaply,['Mělník']
 Horní Počernice,['Praha']
-Horní Počernice-sever,['Praha']
 Horní Počernice-za Novopackou,['Praha']
-Horní Počernice-západ,['Praha']
-Horní Poříčí,"['Strakonice', 'Boskovice']"
+Horní Poříčí,"['Boskovice', 'Strakonice']"
 Horní Pěna,['Jindřichův Hradec']
 Horní Radechová,['Náchod']
 Horní Radouň,['Jindřichův Hradec']
@@ -1348,7 +1311,7 @@ Horní Vilémovice,['Třebíč']
 Horní Vltavice,['Vimperk']
 Horní Věstonice,['Mikulov']
 Horní malostranský obvod,['Praha']
-Horní Újezd,"['Litomyšl', 'Třebíč', 'Hranice']"
+Horní Újezd,"['Hranice', 'Litomyšl', 'Třebíč']"
 Horní Čermná,['Lanškroun']
 Horní Řasnice,['Frýdlant']
 Horní Ředice,['Holice']
@@ -1380,18 +1343,15 @@ Hostivař-Zahradní Město,['Praha']
 Hostivař-průmyslový obvod,['Praha']
 Hostivař-střed,['Praha']
 Hostivař-u Záběhlic,['Praha']
-Hostivař-u Záběhlic-sever,['Praha']
 Hostivař-u vozovny,['Praha']
-Hostivař-východ,['Praha']
 Hostivař-za Skalkou,['Praha']
-Hostivař-západ,['Praha']
 Hostivař-Štěrboholská,['Praha']
 Hostivařská pláž,['Praha']
 Hostivařská přehrada,['Praha']
 Hostivice,['Černošice']
 Hostišová,['Zlín']
 Hostomice,"['Hořovice', 'Bílina']"
-Hostouň,"['Kladno', 'Domažlice']"
+Hostouň,"['Domažlice', 'Kladno']"
 Hostovlice,['Čáslav']
 Hosty,['Týn nad Vltavou']
 Hostín,['Mělník']
@@ -1412,7 +1372,7 @@ Hořepník,['Pelhřimov']
 Hořesedly,['Rakovník']
 Hořešovice,['Slaný']
 Hořešovičky,['Slaný']
-Hořice,"['Hořice', 'Humpolec']"
+Hořice,"['Humpolec', 'Hořice']"
 Hořice na Šumavě,['Český Krumlov']
 Hořiněves,['Hradec Králové']
 Hořičky,['Náchod']
@@ -1421,7 +1381,7 @@ Hořovičky,['Rakovník']
 Hořátev,['Nymburk']
 Hořín,['Mělník']
 Hoštejn,['Zábřeh']
-Hoštice,"['Strakonice', 'Kroměříž']"
+Hoštice,"['Kroměříž', 'Strakonice']"
 Hoštice-Heroltice,['Vyškov']
 Hoštka,['Litoměřice']
 Hošťalovice,['Chrudim']
@@ -1439,7 +1399,7 @@ Hracholusky,"['Rakovník', 'Prachatice']"
 Hrachoviště,['Třeboň']
 Hrad,['Praha']
 Hradce,['České Budějovice']
-Hradec,"['Stod', 'Světlá nad Sázavou']"
+Hradec,"['Světlá nad Sázavou', 'Stod']"
 Hradec Králové,['Hradec Králové']
 Hradec nad Moravicí,['Opava']
 Hradec nad Svitavou,['Svitavy']
@@ -1449,11 +1409,10 @@ Hradešice,['Horažďovice']
 Hradešín,['Český Brod']
 Hradešínská,['Praha']
 Hradištko,"['Černošice', 'Nymburk']"
-Hradiště,"['Vlašim', 'Domažlice', 'Nepomuk', 'Rokycany']"
+Hradiště,"['Vlašim', 'Nepomuk', 'Domažlice', 'Rokycany']"
 Hradiště (vojenský újezd),['Karlovy Vary']
-Hradčanská-východ,['Praha']
-Hradčanská-západ,['Praha']
-Hradčany,"['Poděbrady', 'Tišnov', 'Přerov', 'Praha']"
+Hradčanská,['Praha']
+Hradčany,"['Praha', 'Poděbrady', 'Tišnov', 'Přerov']"
 Hradčany-Kobeřice,['Prostějov']
 Hradčovice,['Uherský Brod']
 Hranice,"['Trhové Sviny', 'Aš', 'Hranice']"
@@ -1463,13 +1422,11 @@ Hrdibořice,['Prostějov']
 Hrdlořezy,"['Mladá Boleslav', 'Praha']"
 Hrdlořezy-Tábor,['Praha']
 Hrdlořezy-u teplárny,['Praha']
-Hrdlořezy-východ,['Praha']
 Hrdlív,['Slaný']
 Hrdějovice,['České Budějovice']
 Hrejkovice,['Milevsko']
 Hrnčíře,['Praha']
 Hrnčíře-U Kunratické spojky,['Praha']
-Hrnčíře-západ,['Praha']
 Hrob,['Teplice']
 Hrobce,['Roudnice nad Labem']
 Hrobice,"['Pardubice', 'Vizovice']"
@@ -1495,7 +1452,7 @@ Hrušovany,['Chomutov']
 Hrušovany nad Jevišovkou,['Znojmo']
 Hrušovany u Brna,['Židlochovice']
 Hrušová,['Vysoké Mýto']
-Hrádek,"['Rokycany', 'Sušice', 'Hradec Králové', 'Ústí nad Orlicí', 'Znojmo', 'Jablunkov']"
+Hrádek,"['Ústí nad Orlicí', 'Znojmo', 'Hradec Králové', 'Jablunkov', 'Rokycany', 'Sušice']"
 Hrádek nad Nisou,['Liberec']
 Hrčava,['Jablunkov']
 Hubenov,['Jihlava']
@@ -1516,7 +1473,7 @@ Husí Lhota,['Mladá Boleslav']
 Hutisko-Solanec,['Rožnov pod Radhoštěm']
 Huzová,['Šternberk']
 Huštěnovice,['Uherské Hradiště']
-Hvozd,"['Rakovník', 'Kralovice', 'Konice']"
+Hvozd,"['Konice', 'Kralovice', 'Rakovník']"
 Hvozdec,"['Hořovice', 'České Budějovice', 'Kuřim']"
 Hvozdnice,"['Černošice', 'Hradec Králové']"
 Hvozdná,['Zlín']
@@ -1533,7 +1490,7 @@ Háj ve Slezsku,['Opava']
 Háje,"['Příbram', 'Praha']"
 Háje nad Jizerou,['Semily']
 Háje-střed,['Praha']
-Hájek,"['Vodňany', 'Ostrov', 'Praha']"
+Hájek,"['Ostrov', 'Vodňany', 'Praha']"
 Hájek u Uhříněvsi,['Praha']
 Hýskov,['Beroun']
 Hýsly,['Kyjov']
@@ -1552,7 +1509,7 @@ Hůrky,['Rokycany']
 Hůry,['České Budějovice']
 Ivanovice na Hané,['Vyškov']
 Ivančice,['Ivančice']
-Ivaň,"['Pohořelice', 'Prostějov']"
+Ivaň,"['Prostějov', 'Pohořelice']"
 Jabkenice,['Mladá Boleslav']
 Jablonec Nad Nisou,['Jablonec nad Nisou']
 Jablonec nad Jizerou,['Jilemnice']
@@ -1563,8 +1520,7 @@ Jabloňany,['Boskovice']
 Jabloňov,['Velké Meziříčí']
 Jablunkov,['Jablunkov']
 Jablůnka,['Vsetín']
-Jahodnice-východ,['Praha']
-Jahodnice-západ,['Praha']
+Jahodnice,['Praha']
 Jahodov,['Rychnov nad Kněžnou']
 Jakartovice,['Opava']
 Jakubov u Moravských Budějovic,['Moravské Budějovice']
@@ -1577,9 +1533,9 @@ Jamné,['Jihlava']
 Jamné nad Orlicí,['Žamberk']
 Jamolice,['Moravský Krumlov']
 Jankov,"['Votice', 'České Budějovice', 'Pelhřimov']"
-Jankovice,"['Přelouč', 'Holešov', 'Uherské Hradiště']"
+Jankovice,"['Uherské Hradiště', 'Přelouč', 'Holešov']"
 Janoušov,['Šumperk']
-Janov,"['Rakovník', 'Děčín', 'Dobruška', 'Litomyšl', 'Krnov']"
+Janov,"['Děčín', 'Dobruška', 'Krnov', 'Rakovník', 'Litomyšl']"
 Janov nad Nisou,['Jablonec nad Nisou']
 Janovice,['Frýdlant nad Ostravicí']
 Janovice nad Úhlavou,['Klatovy']
@@ -1596,7 +1552,7 @@ Jaroměřice,['Moravská Třebová']
 Jaroměřice nad Rokytnou,['Třebíč']
 Jaroslav,['Holice']
 Jaroslavice,['Znojmo']
-Jarov,"['Blovice', 'Kralovice', 'Praha']"
+Jarov,"['Praha', 'Kralovice', 'Blovice']"
 Jarošov,['Litomyšl']
 Jarošov nad Nežárkou,['Jindřichův Hradec']
 Jarpice,['Slaný']
@@ -1605,7 +1561,7 @@ Jasenná,"['Jaroměř', 'Vizovice']"
 Javor,['Klatovy']
 Javorek,['Nové Město na Moravě']
 Javornice,['Rychnov nad Kněžnou']
-Javorník,"['Vlašim', 'Svitavy', 'Vysoké Mýto', 'Veselí nad Moravou', 'Jeseník']"
+Javorník,"['Veselí nad Moravou', 'Vlašim', 'Jeseník', 'Svitavy', 'Vysoké Mýto']"
 Javorová čtvrť,['Praha']
 Javůrek,['Rosice']
 Jedlany,['Tábor']
@@ -1621,21 +1577,21 @@ Jemníky,['Slaný']
 Jenerálka,['Praha']
 Jeneč,['Černošice']
 Jenišov,['Karlovy Vary']
-Jenišovice,"['Turnov', 'Chrudim']"
-Jeníkov,"['Teplice', 'Hlinsko']"
-Jeníkovice,"['Hradec Králové', 'Přelouč']"
+Jenišovice,"['Chrudim', 'Turnov']"
+Jeníkov,"['Hlinsko', 'Teplice']"
+Jeníkovice,"['Přelouč', 'Hradec Králové']"
 Jenčice,['Lovosice']
 Jenštejn,['Brandýs n. Lab.-St.Boleslav']
 Jersín,['Jihlava']
 Jesenec,['Konice']
-Jesenice,"['Černošice', 'Rakovník', 'Sedlčany']"
+Jesenice,"['Černošice', 'Sedlčany', 'Rakovník']"
 Jesenný,['Semily']
 Jeseník,['Jeseník']
 Jeseník nad Odrou,['Nový Jičín']
 Jestřabí,['Valašské Klobouky']
 Jestřabí Lhota,['Kolín']
 Jestřabí v Krkonoších,['Jilemnice']
-Jestřebí,"['Česká Lípa', 'Nové Město nad Metují', 'Zábřeh']"
+Jestřebí,"['Nové Město nad Metují', 'Zábřeh', 'Česká Lípa']"
 Jetětice,['Milevsko']
 Jetřichov,['Broumov']
 Jetřichovice,['Děčín']
@@ -1655,7 +1611,7 @@ Jeřmanice,['Liberec']
 Ješetice,['Votice']
 Ježená,['Jihlava']
 Ježkovice,['Vyškov']
-Ježov,"['Humpolec', 'Kyjov']"
+Ježov,"['Kyjov', 'Humpolec']"
 Ježovy,['Klatovy']
 Jickovice,['Milevsko']
 Jihlava,['Jihlava']
@@ -1666,8 +1622,8 @@ Jimlín,['Louny']
 Jimramov,['Nové Město na Moravě']
 Jinačovice,['Kuřim']
 Jince,['Příbram']
-Jindřichov,"['Hranice', 'Šumperk', 'Krnov']"
-Jindřichovice,"['Kraslice', 'Telč']"
+Jindřichov,"['Krnov', 'Hranice', 'Šumperk']"
+Jindřichovice,"['Telč', 'Kraslice']"
 Jindřichovice pod Smrkem,['Frýdlant']
 Jindřichův Hradec,['Jindřichův Hradec']
 Jindřišský obvod,['Praha']
@@ -1677,7 +1633,6 @@ Jinonice-Na rovinách,['Praha']
 Jinonice-Pod Vidoulí,['Praha']
 Jinonice-střed,['Praha']
 Jinonice-u stadiónu,['Praha']
-Jinonice-západ,['Praha']
 Jinonická,['Praha']
 Jinočany,['Černošice']
 Jinošov,['Náměšť nad Oslavou']
@@ -1686,7 +1641,6 @@ Jiratice,['Moravské Budějovice']
 Jirkov,['Chomutov']
 Jirny,['Brandýs n. Lab.-St.Boleslav']
 Jiráskova čtvrť,['Praha']
-Jiráskova čtvrť-západ,['Praha']
 Jistebnice,['Tábor']
 Jistebník,['Bílovec']
 Jitkov,['Chotěboř']
@@ -1702,20 +1656,17 @@ Jiřetín pod Jedlovou,['Varnsdorf']
 Jiřice,"['Lysá nad Labem', 'Humpolec']"
 Jiřice u Miroslavi,['Moravský Krumlov']
 Jiřice u Moravských Budějovic,['Znojmo']
-Jiříkov,"['Rumburk', 'Rýmařov']"
+Jiříkov,"['Rýmařov', 'Rumburk']"
 Jiříkovice,['Šlapanice']
-Jižní Město II-jih,['Praha']
-Jižní Město II-sever,['Praha']
-Jižní Město II-západ,['Praha']
+Jižní Město II,['Praha']
 Jižní Město-Háje,['Praha']
-Jižní Město-Háje-jih,['Praha']
 Jižní Město-Litochleby,['Praha']
 Jižní Město-Metro Opatov,['Praha']
 Jižní Město-Nad Šeberovem,['Praha']
-Jižní Město-Opatov-sever,['Praha']
+Jižní Město-Opatov,['Praha']
 Jižní Město-Opatov-střed,['Praha']
 Jižní Město-u tvrze,['Praha']
-Josefov,"['Sokolov', 'Hodonín', 'Praha']"
+Josefov,"['Hodonín', 'Sokolov', 'Praha']"
 Josefův Důl,"['Mladá Boleslav', 'Jablonec nad Nisou']"
 Juliska,['Praha']
 Jáchymov,['Ostrov']
@@ -1747,24 +1698,24 @@ Kacákova Lhota,['Jičín']
 Kadaň,['Kadaň']
 Kadlín,['Mělník']
 Kadolec,['Velké Meziříčí']
-Kadov,"['Blatná', 'Nové Město na Moravě', 'Moravský Krumlov']"
+Kadov,"['Nové Město na Moravě', 'Moravský Krumlov', 'Blatná']"
 Kajetánka,['Praha']
 Kakejcov,['Rokycany']
 Kalek,['Chomutov']
 Kalenice,['Strakonice']
 Kalhov,['Jihlava']
 Kalivody,['Rakovník']
-Kaliště,"['Říčany', 'Humpolec', 'Jihlava']"
+Kaliště,"['Jihlava', 'Říčany', 'Humpolec']"
 Kaly,['Tišnov']
 Kamberk,['Vlašim']
 Kamenec,['Rokycany']
 Kamenec u Poličky,['Polička']
-Kamenice,"['Říčany', 'Jihlava']"
+Kamenice,"['Jihlava', 'Říčany']"
 Kamenice nad Lipou,['Pelhřimov']
 Kamenický Šenov,['Nový Bor']
 Kameničky,['Hlinsko']
 Kameničná,['Žamberk']
-Kamenná,"['Trhové Sviny', 'Jihlava', 'Třebíč', 'Zábřeh']"
+Kamenná,"['Zábřeh', 'Trhové Sviny', 'Jihlava', 'Třebíč']"
 Kamenná Horka,['Svitavy']
 Kamenná Lhota,['Světlá nad Sázavou']
 Kamenné Zboží,['Nymburk']
@@ -1773,11 +1724,10 @@ Kamenný Malíkov,['Jindřichův Hradec']
 Kamenný Most,['Slaný']
 Kamenný Přívoz,['Černošice']
 Kamenný Újezd,"['České Budějovice', 'Rokycany']"
-Kamýk,"['Litoměřice', 'Praha']"
+Kamýk,"['Praha', 'Litoměřice']"
 Kamýk nad Vltavou,['Příbram']
 Kamýk-Zátiší,['Praha']
 Kamýk-u Nových Dvorů,['Praha']
-Kamýk-východ,['Praha']
 Kanice,"['Domažlice', 'Šlapanice']"
 Kanina,['Mělník']
 Kaničky,['Domažlice']
@@ -1791,9 +1741,6 @@ Karlovice,"['Turnov', 'Zlín', 'Bruntál']"
 Karlovy Vary,['Karlovy Vary']
 Karlík,['Černošice']
 Karlín,"['Hodonín', 'Praha']"
-Karlín-sever,['Praha']
-Karlín-východ,['Praha']
-Karlín-západ,['Praha']
 Karlštejn,['Beroun']
 Karolinka,['Vsetín']
 Karolín,['Kroměříž']
@@ -1802,7 +1749,7 @@ Kasalice,['Pardubice']
 Kasejovice,['Nepomuk']
 Kateřinice,"['Vsetín', 'Kopřivnice']"
 Kateřinky,['Praha']
-Katov,"['Soběslav', 'Tišnov']"
+Katov,"['Tišnov', 'Soběslav']"
 Katovice,['Strakonice']
 Katusice,['Mladá Boleslav']
 Kavalírka,['Praha']
@@ -1820,15 +1767,11 @@ Kařízek,['Rokycany']
 Kašava,['Zlín']
 Kašnice,['Hustopeče']
 Kašperské Hory,['Sušice']
-Kbel,"['Kolín', 'Přeštice']"
+Kbel,"['Přeštice', 'Kolín']"
 Kbelany,['Nýřany']
 Kbelnice,['Jičín']
 Kbely,['Praha']
-Kbely-jih,['Praha']
 Kbely-průmyslový obvod,['Praha']
-Kbely-sever,['Praha']
-Kbely-východ,['Praha']
-Kbely-západ,['Praha']
 Kdousov,['Moravské Budějovice']
 Kdyně,['Domažlice']
 Ke Chrášťanům,['Praha']
@@ -1850,9 +1793,9 @@ Kladenská,['Praha']
 Kladeruby,['Valašské Meziříčí']
 Kladeruby nad Oslavou,['Náměšť nad Oslavou']
 Kladky,['Konice']
-Kladno,"['Kladno', 'Hlinsko']"
+Kladno,"['Hlinsko', 'Kladno']"
 Kladníky,['Lipník nad Bečvou']
-Kladruby,"['Vlašim', 'Strakonice', 'Rokycany', 'Stříbro', 'Teplice']"
+Kladruby,"['Vlašim', 'Stříbro', 'Strakonice', 'Rokycany', 'Teplice']"
 Kladruby nad Labem,['Přelouč']
 Klamovka,['Praha']
 Klamoš,['Hradec Králové']
@@ -1877,7 +1820,7 @@ Klokočí,"['Turnov', 'Hranice']"
 Klopina,['Mohelnice']
 Klopotovice,['Prostějov']
 Klukovice,['Praha']
-Kluky,"['Čáslav', 'Mladá Boleslav', 'Písek']"
+Kluky,"['Mladá Boleslav', 'Písek', 'Čáslav']"
 Klučenice,['Sedlčany']
 Klučov,"['Český Brod', 'Třebíč']"
 Kly,['Mělník']
@@ -1897,8 +1840,8 @@ Knovíz,['Slaný']
 Knyk,['Havlíčkův Brod']
 Knínice,"['Telč', 'Boskovice']"
 Kněždub,['Veselí nad Moravou']
-Kněževes,"['Černošice', 'Rakovník', 'Žďár nad Sázavou', 'Boskovice']"
-Kněžice,"['Poděbrady', 'Chrudim', 'Jihlava']"
+Kněževes,"['Boskovice', 'Černošice', 'Žďár nad Sázavou', 'Rakovník']"
+Kněžice,"['Jihlava', 'Chrudim', 'Poděbrady']"
 Kněžičky,['Poděbrady']
 Kněžmost,['Mnichovo Hradiště']
 Kněžnice,['Jičín']
@@ -1911,7 +1854,7 @@ Kobylice,['Nový Bydžov']
 Kobylisy,['Praha']
 Kobylisy-pískovna,['Praha']
 Kobylisy-u hvězdárny,['Praha']
-Kobylnice,"['Kutná Hora', 'Mladá Boleslav', 'Šlapanice']"
+Kobylnice,"['Mladá Boleslav', 'Kutná Hora', 'Šlapanice']"
 Kobyly,['Turnov']
 Kobylá nad Vidnavkou,['Jeseník']
 Kobylí,['Hustopeče']
@@ -1924,7 +1867,7 @@ Kohoutov,['Dvůr Králové nad Labem']
 Kojatice,['Moravské Budějovice']
 Kojatín,['Třebíč']
 Kojetice,"['Neratovice', 'Třebíč']"
-Kojetín,"['Havlíčkův Brod', 'Přerov']"
+Kojetín,"['Přerov', 'Havlíčkův Brod']"
 Kojice,['Přelouč']
 Kojátky,['Bučovice']
 Kojčice,['Pelhřimov']
@@ -1947,16 +1890,14 @@ Kolín,['Kolín']
 Kolšov,['Zábřeh']
 Komařice,['České Budějovice']
 Komenského náměstí,['Praha']
-Komerční zóna Horní Počernice-sever,['Praha']
+Komerční zóna Horní Počernice,['Praha']
 Komorní Lhotka,['Třinec']
 Komorovice,['Humpolec']
 Komořanský les,['Praha']
 Komořany,"['Vyškov', 'Praha']"
-Komořany-jih,['Praha']
 Komořany-pobřeží,['Praha']
-Komořany-sever,['Praha']
 Komárno,['Bystřice pod Hostýnem']
-Komárov,"['Hořovice', 'Soběslav', 'Šternberk', 'Otrokovice']"
+Komárov,"['Hořovice', 'Šternberk', 'Otrokovice', 'Soběslav']"
 Komárovice,['Moravské Budějovice']
 Komňa,['Uherský Brod']
 Kondrac,['Vlašim']
@@ -1994,7 +1935,7 @@ Kosořice,['Mladá Boleslav']
 Kosořín,['Vysoké Mýto']
 Kostelany,['Kroměříž']
 Kostelany nad Moravou,['Uherské Hradiště']
-Kostelec,"['Stříbro', 'Jičín', 'Jihlava', 'Kyjov']"
+Kostelec,"['Jihlava', 'Kyjov', 'Jičín', 'Stříbro']"
 Kostelec na Hané,['Prostějov']
 Kostelec nad Labem,['Neratovice']
 Kostelec nad Orlicí,['Kostelec nad Orlicí']
@@ -2027,7 +1968,7 @@ Kounice,['Lysá nad Labem']
 Kounov,"['Rakovník', 'Dobruška']"
 Koupě,['Příbram']
 Kout na Šumavě,['Domažlice']
-Kouty,"['Poděbrady', 'Světlá nad Sázavou', 'Třebíč']"
+Kouty,"['Světlá nad Sázavou', 'Poděbrady', 'Třebíč']"
 Kouřim,['Kolín']
 Kovalovice,['Šlapanice']
 Kovanec,['Mladá Boleslav']
@@ -2038,12 +1979,12 @@ Kováň,['Mladá Boleslav']
 Kovářov,['Milevsko']
 Kovářská,['Kadaň']
 Kovčín,['Horažďovice']
-Kozlany,"['Třebíč', 'Vyškov']"
-Kozlov,"['Jihlava', 'Světlá nad Sázavou', 'Velké Meziříčí', 'Olomouc']"
+Kozlany,"['Vyškov', 'Třebíč']"
+Kozlov,"['Velké Meziříčí', 'Světlá nad Sázavou', 'Jihlava', 'Olomouc']"
 Kozlovice,"['Nepomuk', 'Frýdek-Místek']"
-Kozly,"['Louny', 'Česká Lípa']"
+Kozly,"['Česká Lípa', 'Louny']"
 Kozmice,"['Benešov', 'Hlučín']"
-Kozojedy,"['Rakovník', 'Říčany', 'Kralovice', 'Jičín']"
+Kozojedy,"['Jičín', 'Kralovice', 'Říčany', 'Rakovník']"
 Kozojídky,['Veselí nad Moravou']
 Kozolupy,['Nýřany']
 Kozomín,['Kralupy nad Vltavou']
@@ -2057,7 +1998,7 @@ Kořenice,['Kolín']
 Kořenov,['Tanvald']
 Košařiska,['Třinec']
 Košetice,['Pelhřimov']
-Košice,"['Kutná Hora', 'Tábor']"
+Košice,"['Tábor', 'Kutná Hora']"
 Koštice,['Louny']
 Košátky,['Mladá Boleslav']
 Košík,['Nymburk']
@@ -2065,7 +2006,6 @@ Košíky,['Uherské Hradiště']
 Košín,['Tábor']
 Košíře,['Praha']
 Košíře-střed,['Praha']
-Košíře-západ,['Praha']
 Košťany,['Teplice']
 Košťálov,['Semily']
 Kožichovice,['Třebíč']
@@ -2098,14 +2038,14 @@ Krasíkovice,['Pelhřimov']
 Kratochvilka,['Rosice']
 Kratonohy,['Hradec Králové']
 Kratušín,['Prachatice']
-Kravaře,"['Česká Lípa', 'Kravaře']"
+Kravaře,"['Kravaře', 'Česká Lípa']"
 Kravsko,['Znojmo']
 Krašlovice,['Vodňany']
 Krašovice,['Nýřany']
-Krchleby,"['Čáslav', 'Nymburk', 'Kostelec nad Orlicí', 'Mohelnice']"
+Krchleby,"['Kostelec nad Orlicí', 'Mohelnice', 'Nymburk', 'Čáslav']"
 Krejnice,['Strakonice']
 Krhanice,['Benešov']
-Krhov,"['Třebíč', 'Boskovice']"
+Krhov,"['Boskovice', 'Třebíč']"
 Krhovice,['Znojmo']
 Krhová,['Valašské Meziříčí']
 Krmelín,['Frýdek-Místek']
@@ -2139,7 +2079,7 @@ Královec,['Trutnov']
 Královice,"['Slaný', 'Praha']"
 Královská obora,['Praha']
 Královské Poříčí,['Sokolov']
-Králíky,"['Nový Bydžov', 'Králíky']"
+Králíky,"['Králíky', 'Nový Bydžov']"
 Králův Dvůr,['Beroun']
 Krásensko,['Vyškov']
 Krásno,['Sokolov']
@@ -2159,8 +2099,7 @@ Krč,['Praha']
 Krč-Na jezerech,['Praha']
 Krčmaň,['Olomouc']
 Krčská nemocnice,['Praha']
-Krčské údolí-východ,['Praha']
-Krčské údolí-západ,['Praha']
+Krčské údolí,['Praha']
 Krčský zámek,['Praha']
 Krňany,['Benešov']
 Krňák,['Praha']
@@ -2179,22 +2118,18 @@ Kuks,['Dvůr Králové nad Labem']
 Kulířov,['Blansko']
 Kundratice,['Velké Meziříčí']
 Kunemil,['Světlá nad Sázavou']
-Kunice,"['Říčany', 'Boskovice']"
+Kunice,"['Boskovice', 'Říčany']"
 Kuničky,['Blansko']
 Kunkovice,['Kroměříž']
-Kunovice,"['Uherské Hradiště', 'Valašské Meziříčí']"
+Kunovice,"['Valašské Meziříčí', 'Uherské Hradiště']"
 Kunratice,"['Děčín', 'Frýdlant', 'Praha']"
 Kunratice u Cvikova,['Nový Bor']
 Kunratice-Ke Hrádku,['Praha']
 Kunratice-Na jezerech,['Praha']
 Kunratice-Nad Vernerákem,['Praha']
 Kunratice-Nad rybníčky,['Praha']
-Kunratice-jih,['Praha']
-Kunratice-sever,['Praha']
 Kunratice-skladový areál,['Praha']
 Kunratice-střed,['Praha']
-Kunratice-východ,['Praha']
-Kunratice-západ,['Praha']
 Kunratický les,['Praha']
 Kunvald,['Žamberk']
 Kunín,['Nový Jičín']
@@ -2235,11 +2170,8 @@ Květnice,['Brandýs n. Lab.-St.Boleslav']
 Květná,['Polička']
 Květov,['Milevsko']
 Kyje,"['Jičín', 'Praha']"
-Kyje-jih,['Praha']
-Kyje-sever,['Praha']
 Kyje-u teplárny,['Praha']
-Kyje-západ,['Praha']
-Kyjov,"['Havlíčkův Brod', 'Žďár nad Sázavou', 'Kyjov']"
+Kyjov,"['Žďár nad Sázavou', 'Kyjov', 'Havlíčkův Brod']"
 Kyjovice,"['Znojmo', 'Opava']"
 Kynice,['Světlá nad Sázavou']
 Kynšperk nad Ohří,['Sokolov']
@@ -2247,11 +2179,11 @@ Kyselka,['Karlovy Vary']
 Kyselovice,['Kroměříž']
 Kytlice,['Děčín']
 Kytín,['Černošice']
-Kyšice,"['Kladno', 'Plzeň']"
+Kyšice,"['Plzeň', 'Kladno']"
 Kyškovice,['Roudnice nad Labem']
 Kácov,['Kutná Hora']
 Kájov,['Český Krumlov']
-Kámen,"['Děčín', 'Havlíčkův Brod', 'Pacov']"
+Kámen,"['Děčín', 'Pacov', 'Havlíčkův Brod']"
 Káranice,['Hradec Králové']
 Káraný,['Brandýs n. Lab.-St.Boleslav']
 Kňovice,['Sedlčany']
@@ -2260,9 +2192,9 @@ Křelov-Břuchotín,['Olomouc']
 Křelovice,"['Nýřany', 'Pelhřimov']"
 Křemže,['Český Krumlov']
 Křenek,['Brandýs n. Lab.-St.Boleslav']
-Křenice,"['Říčany', 'Klatovy']"
+Křenice,"['Klatovy', 'Říčany']"
 Křenov,['Moravská Třebová']
-Křenovice,"['Písek', 'Slavkov u Brna', 'Přerov']"
+Křenovice,"['Písek', 'Přerov', 'Slavkov u Brna']"
 Křenovy,['Horšovský Týn']
 Křepenice,['Sedlčany']
 Křepice,"['Hustopeče', 'Znojmo']"
@@ -2284,7 +2216,7 @@ Křivsoudov,['Vlašim']
 Křičeň,['Pardubice']
 Křišťanov,['Prachatice']
 Křišťanovice,['Bruntál']
-Křižanov,"['Milevsko', 'Velké Meziříčí']"
+Křižanov,"['Velké Meziříčí', 'Milevsko']"
 Křižanovice,"['Chrudim', 'Bučovice']"
 Křižanovice u Vyškova,['Vyškov']
 Křižany,['Liberec']
@@ -2324,12 +2256,12 @@ Lazsko,['Příbram']
 Lačnov,['Vsetín']
 Laškov,['Prostějov']
 Lašovice,['Rakovník']
-Lažany,"['Blatná', 'Turnov', 'Blansko']"
+Lažany,"['Turnov', 'Blatná', 'Blansko']"
 Lažiště,['Prachatice']
 Lažánky,"['Blatná', 'Tišnov']"
 Lechotice,['Holešov']
 Lechovice,['Znojmo']
-Ledce,"['Mladá Boleslav', 'Slaný', 'Nýřany', 'Hradec Králové', 'Židlochovice']"
+Ledce,"['Židlochovice', 'Hradec Králové', 'Nýřany', 'Slaný', 'Mladá Boleslav']"
 Ledenice,['České Budějovice']
 Ledeč nad Sázavou,['Světlá nad Sázavou']
 Ledečko,['Kutná Hora']
@@ -2345,10 +2277,10 @@ Leskovec,['Vsetín']
 Leskovec nad Moravicí,['Bruntál']
 Leskovice,['Pelhřimov']
 Lesnice,['Zábřeh']
-Lesná,"['Tachov', 'Moravské Budějovice', 'Pacov', 'Znojmo']"
+Lesná,"['Moravské Budějovice', 'Znojmo', 'Pacov', 'Tachov']"
 Lesní Hluboké,['Rosice']
 Lesní Jakubov,['Náměšť nad Oslavou']
-Lesonice,"['Moravské Budějovice', 'Moravský Krumlov']"
+Lesonice,"['Moravský Krumlov', 'Moravské Budějovice']"
 Lestkov,['Tachov']
 Lesůňky,['Třebíč']
 Letenské sady,['Praha']
@@ -2363,7 +2295,6 @@ Lety,"['Černošice', 'Písek']"
 Letňanské zahrady,['Praha']
 Letňany,['Praha']
 Letňany-průmyslový obvod,['Praha']
-Letňany-sever,['Praha']
 Letňany-u Proseku,['Praha']
 Letňany-u Střížkova,['Praha']
 Levín,['Litoměřice']
@@ -2376,7 +2307,7 @@ Leština,"['Vysoké Mýto', 'Zábřeh']"
 Leština u Světlé,['Světlá nad Sázavou']
 Leštinka,['Chrudim']
 Lhenice,['Prachatice']
-Lhota,"['Brandýs n. Lab.-St.Boleslav', 'Kladno', 'Lipník nad Bečvou', 'Zlín']"
+Lhota,"['Brandýs n. Lab.-St.Boleslav', 'Zlín', 'Kladno', 'Lipník nad Bečvou']"
 Lhota Rapotina,['Boskovice']
 Lhota pod Hořičkami,['Náchod']
 Lhota pod Libčany,['Hradec Králové']
@@ -2387,12 +2318,11 @@ Lhota u Příbramě,['Příbram']
 Lhota u Vsetína,['Vsetín']
 Lhota-Vlasenice,['Pelhřimov']
 Lhotice,['Moravské Budějovice']
-Lhotka,"['Hořovice', 'Mělník', 'Telč', 'Žďár nad Sázavou', 'Přerov', 'Frýdek-Místek', 'Praha']"
+Lhotka,"['Hořovice', 'Telč', 'Mělník', 'Přerov', 'Frýdek-Místek', 'Žďár nad Sázavou', 'Praha']"
 Lhotka nad Labem,['Lovosice']
 Lhotka u Litultovic,['Opava']
 Lhotka u Radnic,['Rokycany']
 Lhotka-Zátiší,['Praha']
-Lhotka-jih,['Praha']
 Lhotka-střed,['Praha']
 Lhotky,['Mladá Boleslav']
 Lhotsko,['Vizovice']
@@ -2418,7 +2348,7 @@ Libice nad Doubravou,['Chotěboř']
 Libina,['Šumperk']
 Libiš,['Neratovice']
 Libišany,['Pardubice']
-Libkov,"['Domažlice', 'Chrudim']"
+Libkov,"['Chrudim', 'Domažlice']"
 Libkova Voda,['Pelhřimov']
 Libkovice pod Řípem,['Roudnice nad Labem']
 Liblice,['Mělník']
@@ -2445,10 +2375,7 @@ Libuň,['Jičín']
 Libuš,['Praha']
 Libuš-Na Skalce,['Praha']
 Libuš-Na jezerech,['Praha']
-Libuš-sever I,['Praha']
-Libuš-sever II,['Praha']
 Libuš-střed,['Praha']
-Libuš-východ,['Praha']
 Libušín,['Kladno']
 Libá,['Cheb']
 Libáň,['Jičín']
@@ -2461,12 +2388,12 @@ Libědice,['Kadaň']
 Libějice,['Tábor']
 Libějovice,['Vodňany']
 Libětice,['Strakonice']
-Liběšice,"['Litoměřice', 'Žatec']"
+Liběšice,"['Žatec', 'Litoměřice']"
 Libňatov,['Trutnov']
 Libřice,['Hradec Králové']
 Libštát,['Semily']
 Lichkov,['Králíky']
-Lichnov,"['Frenštát pod Radhoštěm', 'Krnov']"
+Lichnov,"['Krnov', 'Frenštát pod Radhoštěm']"
 Lichoceves,['Černošice']
 Licibořice,['Chrudim']
 Lidečko,['Vsetín']
@@ -2489,7 +2416,7 @@ Lipoltice,['Přelouč']
 Lipov,['Veselí nad Moravou']
 Lipovec,"['Chrudim', 'Blansko']"
 Lipovice,['Prachatice']
-Lipová,"['Cheb', 'Rumburk', 'Konice', 'Přerov', 'Luhačovice']"
+Lipová,"['Konice', 'Cheb', 'Přerov', 'Rumburk', 'Luhačovice']"
 Lipová-lázně,['Jeseník']
 Liptaň,['Krnov']
 Liptál,['Vsetín']
@@ -2516,7 +2443,7 @@ Litvínov,['Litvínov']
 Litvínovice,['České Budějovice']
 Litíč,['Dvůr Králové nad Labem']
 Lično,['Rychnov nad Kněžnou']
-Lišany,"['Rakovník', 'Žatec']"
+Lišany,"['Žatec', 'Rakovník']"
 Lišice,['Hradec Králové']
 Lišnice,['Most']
 Lišov,['České Budějovice']
@@ -2533,10 +2460,10 @@ Lodhéřov,['Jindřichův Hradec']
 Lodín,['Hradec Králové']
 Loděnice,"['Beroun', 'Pohořelice']"
 Loket,"['Vlašim', 'Sokolov']"
-Lom,"['Blatná', 'Tábor', 'Litvínov']"
+Lom,"['Tábor', 'Blatná', 'Litvínov']"
 Lom u Tachova,['Tachov']
 Lomec,['Klatovy']
-Lomnice,"['Sokolov', 'Tišnov', 'Bruntál']"
+Lomnice,"['Tišnov', 'Sokolov', 'Bruntál']"
 Lomnice nad Lužnicí,['Třeboň']
 Lomnice nad Popelkou,['Semily']
 Lomnička,['Tišnov']
@@ -2554,7 +2481,7 @@ Louny,['Louny']
 Loučany,['Olomouc']
 Loučeň,['Nymburk']
 Loučim,['Domažlice']
-Loučka,"['Litovel', 'Valašské Klobouky', 'Valašské Meziříčí']"
+Loučka,"['Valašské Klobouky', 'Litovel', 'Valašské Meziříčí']"
 Loučky,['Turnov']
 Loučná nad Desnou,['Šumperk']
 Loučná pod Klínovcem,['Kadaň']
@@ -2575,7 +2502,7 @@ Lošany,['Kolín']
 Loštice,['Mohelnice']
 Lubenec,['Podbořany']
 Lubnice,['Znojmo']
-Lubná,"['Rakovník', 'Litomyšl', 'Kroměříž']"
+Lubná,"['Litomyšl', 'Kroměříž', 'Rakovník']"
 Lubné,['Tišnov']
 Lubník,['Lanškroun']
 Luboměř,['Odry']
@@ -2591,12 +2518,12 @@ Ludvíkov,['Bruntál']
 Ludvíkovice,['Děčín']
 Ludíkov,['Boskovice']
 Luhačovice,['Luhačovice']
-Luka,"['Česká Lípa', 'Praha']"
+Luka,"['Praha', 'Česká Lípa']"
 Luka nad Jihlavou,['Jihlava']
 Lukavec,"['Lovosice', 'Pacov']"
 Lukavec u Hořic,['Hořice']
-Lukavice,"['Rychnov nad Kněžnou', 'Chrudim', 'Žamberk', 'Zábřeh']"
-Lukov,"['Bílina', 'Moravské Budějovice', 'Znojmo', 'Zlín']"
+Lukavice,"['Chrudim', 'Žamberk', 'Rychnov nad Kněžnou', 'Zábřeh']"
+Lukov,"['Bílina', 'Znojmo', 'Zlín', 'Moravské Budějovice']"
 Lukovany,['Rosice']
 Lukoveček,['Zlín']
 Luková,['Lanškroun']
@@ -2610,30 +2537,26 @@ Lučany nad Nisou,['Jablonec nad Nisou']
 Lučice,['Havlíčkův Brod']
 Lučina,['Frýdek-Místek']
 Luštěnice,['Mladá Boleslav']
-Lužany,"['Přeštice', 'Hradec Králové', 'Jičín']"
+Lužany,"['Přeštice', 'Jičín', 'Hradec Králové']"
 Lužce,['Beroun']
 Luže,['Chrudim']
 Lužec nad Cidlinou,['Nový Bydžov']
 Lužec nad Vltavou,['Mělník']
 Luženičky,['Domažlice']
-Lužice,"['Prachatice', 'Most', 'Hodonín', 'Šternberk']"
-Lužiny-jih,['Praha']
+Lužice,"['Šternberk', 'Hodonín', 'Most', 'Prachatice']"
+Lužiny,['Praha']
 Lužiny-střed,['Praha']
 Lužnice,['Třeboň']
-Lužná,"['Rakovník', 'Vsetín']"
+Lužná,"['Vsetín', 'Rakovník']"
 Lysice,['Boskovice']
 Lysolaje,['Praha']
-Lysolaje-jih,['Praha']
-Lysolaje-západ,['Praha']
 Lysolaje-údolí,['Praha']
 Lysovice,['Vyškov']
 Lysá nad Labem,['Lysá nad Labem']
 Ládví,['Praha']
 Lánov,['Vrchlabí']
-Lány,"['Kladno', 'Chrudim', 'Chotěboř']"
+Lány,"['Chrudim', 'Chotěboř', 'Kladno', 'Praha']"
 Lány u Dašic,['Pardubice']
-Lány-jih,['Praha']
-Lány-sever,['Praha']
 Lásenice,['Jindřichův Hradec']
 Láz,"['Příbram', 'Moravské Budějovice']"
 Lázně Bohdaneč,['Pardubice']
@@ -2644,15 +2567,15 @@ Lázně Toušeň,['Brandýs n. Lab.-St.Boleslav']
 Lážovice,['Hořovice']
 Líbeznice,['Brandýs n. Lab.-St.Boleslav']
 Líně,['Nýřany']
-Lípa,"['Havlíčkův Brod', 'Zlín']"
+Lípa,"['Zlín', 'Havlíčkův Brod']"
 Lípa nad Orlicí,['Kostelec nad Orlicí']
 Lísek,['Bystřice nad Pernštejnem']
 Lískovice,['Hořice']
 Líský,['Slaný']
 Líté,['Kralovice']
 Líšina,['Stod']
-Líšnice,"['Černošice', 'Žamberk', 'Mohelnice']"
-Líšná,"['Rokycany', 'Nové Město na Moravě', 'Přerov']"
+Líšnice,"['Černošice', 'Mohelnice', 'Žamberk']"
+Líšná,"['Nové Město na Moravě', 'Rokycany', 'Přerov']"
 Líšný,['Železný Brod']
 Líšťany,"['Nýřany', 'Louny']"
 Lčovice,['Vimperk']
@@ -2664,7 +2587,7 @@ Mahouš,['Prachatice']
 Majdalena,['Třeboň']
 Majetín,['Olomouc']
 Makotřasy,['Kladno']
-Makov,"['Litomyšl', 'Boskovice']"
+Makov,"['Boskovice', 'Litomyšl']"
 Malenice,['Strakonice']
 Malenovice,['Frýdlant nad Ostravicí']
 Maletín,['Mohelnice']
@@ -2682,7 +2605,6 @@ Malovice,['Prachatice']
 Malvazinka,['Praha']
 Malá Bystřice,['Vsetín']
 Malá Chuchle,['Praha']
-Malá Chuchle-jih,['Praha']
 Malá Hraštice,['Dobříš']
 Malá Lhota,['Blansko']
 Malá Losenice,['Žďár nad Sázavou']
@@ -2720,7 +2642,7 @@ Mankovice,['Odry']
 Manětín,['Kralovice']
 Mariánské Lázně,['Mariánské Lázně']
 Mariánské Radčice,['Litvínov']
-Markvartice,"['Děčín', 'Jičín', 'Telč', 'Třebíč']"
+Markvartice,"['Telč', 'Děčín', 'Jičín', 'Třebíč']"
 Markvartovice,['Hlučín']
 Martinice,"['Velké Meziříčí', 'Holešov']"
 Martinice u Onšova,['Pelhřimov']
@@ -2732,7 +2654,6 @@ Maršov,['Tišnov']
 Maršov u Úpice,['Trutnov']
 Maršovice,"['Benešov', 'Jablonec nad Nisou']"
 Masarykovo nádraží,['Praha']
-Masarykovo nádraží-východ,['Praha']
 Masojedy,['Český Brod']
 Mastník,['Třebíč']
 Matějov,['Žďár nad Sázavou']
@@ -2746,25 +2667,24 @@ Mažice,['Soběslav']
 Mcely,['Nymburk']
 Meclov,['Horšovský Týn']
 Medlice,['Znojmo']
-Medlov,"['Židlochovice', 'Uničov']"
+Medlov,"['Uničov', 'Židlochovice']"
 Medlovice,"['Vyškov', 'Uherské Hradiště']"
 Medonosy,['Mělník']
 Medový Újezd,['Rokycany']
 Melč,['Vítkov']
 Menhartice,['Moravské Budějovice']
 Merboltice,['Děčín']
-Merklín,"['Přeštice', 'Ostrov']"
+Merklín,"['Ostrov', 'Přeštice']"
 Metylovice,['Frýdlant nad Ostravicí']
-Mezholezy,"['Domažlice', 'Horšovský Týn']"
+Mezholezy,"['Horšovský Týn', 'Domažlice']"
 Meziboří,['Litvínov']
 Mezihoří,['Klatovy']
 Mezilesí,"['Nové Město nad Metují', 'Pacov']"
 Mezilečí,['Náchod']
 Meziměstí,['Broumov']
 Mezina,['Bruntál']
-Mezitratí-východ,['Praha']
-Mezitratí-západ,['Praha']
-Meziříčko,"['Moravské Budějovice', 'Velké Meziříčí']"
+Mezitratí,['Praha']
+Meziříčko,"['Velké Meziříčí', 'Moravské Budějovice']"
 Meziříčí,['Tábor']
 Mezno,['Votice']
 Mezná,"['Soběslav', 'Pelhřimov']"
@@ -2772,14 +2692,13 @@ Mezouň,['Beroun']
 Mečeříž,['Mladá Boleslav']
 Mečichov,['Strakonice']
 Mešno,['Rokycany']
-Michalovice,"['Litoměřice', 'Havlíčkův Brod']"
+Michalovice,"['Havlíčkův Brod', 'Litoměřice']"
 Michelský les,['Praha']
 Michle,['Praha']
-Michle-východ,['Praha']
 Mikolajice,['Opava']
 Mikuleč,['Svitavy']
-Mikulov,"['Teplice', 'Mikulov']"
-Mikulovice,"['Pardubice', 'Třebíč', 'Znojmo', 'Jeseník']"
+Mikulov,"['Mikulov', 'Teplice']"
+Mikulovice,"['Znojmo', 'Jeseník', 'Pardubice', 'Třebíč']"
 Mikulášovice,['Rumburk']
 Mikulčice,['Hodonín']
 Mikulůvka,['Valašské Meziříčí']
@@ -2795,7 +2714,7 @@ Milešovice,['Slavkov u Brna']
 Milešín,['Velké Meziříčí']
 Milhostov,['Cheb']
 Miličín,['Votice']
-Milonice,"['Blansko', 'Bučovice']"
+Milonice,"['Bučovice', 'Blansko']"
 Milostín,['Rakovník']
 Milotice,['Kyjov']
 Milotice nad Bečvou,['Hranice']
@@ -2820,7 +2739,7 @@ Miroslav,['Moravský Krumlov']
 Miroslavské Knínice,['Moravský Krumlov']
 Mirotice,['Písek']
 Mirovice,['Písek']
-Mirošov,"['Rokycany', 'Jihlava', 'Nové Město na Moravě']"
+Mirošov,"['Jihlava', 'Nové Město na Moravě', 'Rokycany']"
 Mirošovice,['Říčany']
 Miskovice,['Kutná Hora']
 Mistrovice,['Žamberk']
@@ -2852,8 +2771,8 @@ Mlýnské Struhadlo,['Klatovy']
 Mlýny,['Tábor']
 Mnetěš,['Roudnice nad Labem']
 Mnich,['Pelhřimov']
-Mnichov,"['Strakonice', 'Domažlice', 'Mariánské Lázně']"
-Mnichovice,"['Říčany', 'Vlašim']"
+Mnichov,"['Mariánské Lázně', 'Strakonice', 'Domažlice']"
+Mnichovice,"['Vlašim', 'Říčany']"
 Mnichovo Hradiště,['Mnichovo Hradiště']
 Mníšek,['Liberec']
 Mníšek pod Brdy,['Černošice']
@@ -2868,17 +2787,13 @@ Modrá Hůrka,['Týn nad Vltavou']
 Modřanská rokle,['Praha']
 Modřanský háj,['Praha']
 Modřany,['Praha']
-Modřany-jih,['Praha']
 Modřany-pobřeží,['Praha']
-Modřany-pobřeží-sever,['Praha']
 Modřany-průmyslový obvod,['Praha']
-Modřany-sever,['Praha']
 Modřany-střed,['Praha']
-Modřany-východ,['Praha']
 Modřice,['Šlapanice']
 Modřišice,['Turnov']
 Modřovice,['Příbram']
-Mohelnice,"['Nepomuk', 'Mohelnice']"
+Mohelnice,"['Mohelnice', 'Nepomuk']"
 Mohelnice nad Jizerou,['Mnichovo Hradiště']
 Mohelno,['Náměšť nad Oslavou']
 Mojné,['Český Krumlov']
@@ -2892,7 +2807,7 @@ Mokré,['Dobruška']
 Mokré Lazce,['Opava']
 Mokrý Lom,['České Budějovice']
 Moldava,['Teplice']
-Moravany,"['Pardubice', 'Kyjov', 'Šlapanice']"
+Moravany,"['Kyjov', 'Pardubice', 'Šlapanice']"
 Moravec,['Velké Meziříčí']
 Moravecké Pavlovice,['Bystřice nad Pernštejnem']
 Moraveč,['Pelhřimov']
@@ -2909,7 +2824,7 @@ Moravský Beroun,['Šternberk']
 Moravský Krumlov,['Moravský Krumlov']
 Moravský Písek,['Veselí nad Moravou']
 Moravský Žižkov,['Břeclav']
-Morašice,"['Chrudim', 'Litomyšl', 'Přelouč', 'Znojmo']"
+Morašice,"['Chrudim', 'Přelouč', 'Litomyšl', 'Znojmo']"
 Morkovice-Slížany,['Kroměříž']
 Morkůvky,['Hustopeče']
 Morávka,['Frýdek-Místek']
@@ -2919,7 +2834,6 @@ Mostkovice,['Prostějov']
 Mosty u Jablunkova,['Jablunkov']
 Motol,['Praha']
 Motol-u opravny,['Praha']
-Motol-západ,['Praha']
 Motolská nemocnice,['Praha']
 Mouchnice,['Kyjov']
 Moutnice,['Židlochovice']
@@ -2937,13 +2851,13 @@ Mrlínek,['Bystřice pod Hostýnem']
 Mrsklesy,['Olomouc']
 Mrtník,['Kralovice']
 Mrzky,['Český Brod']
-Mrákotín,"['Chrudim', 'Telč']"
+Mrákotín,"['Telč', 'Chrudim']"
 Mrákov,['Domažlice']
 Mukařov,"['Mnichovo Hradiště', 'Říčany']"
 Multifunkční aréna,['Praha']
 Mutkov,['Šternberk']
 Mutějovice,['Rakovník']
-Mutěnice,"['Strakonice', 'Hodonín']"
+Mutěnice,"['Hodonín', 'Strakonice']"
 Mutěnín,['Domažlice']
 Mydlovary,['České Budějovice']
 Myslejovice,['Prostějov']
@@ -2973,7 +2887,7 @@ Míškovice,['Holešov']
 Míšov,['Blovice']
 Mýto,['Rokycany']
 Měchenice,['Černošice']
-Měcholupy,"['Nepomuk', 'Žatec']"
+Měcholupy,"['Žatec', 'Nepomuk']"
 Měděnec,['Kadaň']
 Měkynec,['Vodňany']
 Mělnické Vtelno,['Mělník']
@@ -3008,9 +2922,7 @@ Na Beránku II,['Praha']
 Na Dlouhých,['Praha']
 Na Dlážděnce,['Praha']
 Na Dědině,['Praha']
-Na Dědině-východ,['Praha']
 Na Fialce,['Praha']
-Na Fialce-východ,['Praha']
 Na Formance,['Praha']
 Na Harfě,['Praha']
 Na Hřebenkách,['Praha']
@@ -3023,15 +2935,11 @@ Na Padesátníku,['Praha']
 Na Palmovce,['Praha']
 Na Pankráci,['Praha']
 Na Radhošti,['Praha']
-Na Radosti-východ,['Praha']
-Na Radosti-západ,['Praha']
+Na Radosti,['Praha']
 Na Skalicích,['Praha']
 Na Slatinách,['Praha']
-Na Slatinách-sever,['Praha']
 Na Smetance,['Praha']
-Na Třebonicku-jih,['Praha']
-Na Třebonicku-sever,['Praha']
-Na Třebonicku-západ,['Praha']
+Na Třebonicku,['Praha']
 Na Vackově,['Praha']
 Na Veselí,['Praha']
 Na Vidouli,['Praha']
@@ -3044,8 +2952,8 @@ Na březinách,['Praha']
 Na hliníku,['Praha']
 Na hradbách,['Praha']
 Na hradišti,['Praha']
+Na hutích,['Praha']
 Na hutích-Rajská zahrada,['Praha']
-Na hutích-západ,['Praha']
 Na hůrce,['Praha']
 Na korunce-Podleský Mlýn,['Praha']
 Na losech,['Praha']
@@ -3072,7 +2980,6 @@ Nad Zmrzlíkem,['Praha']
 Nad bažantnicí,['Praha']
 Nad cementárnou,['Praha']
 Nad křížky,['Praha']
-Nad křížky-jih,['Praha']
 Nad lesním divadlem,['Praha']
 Nad letenským tunelem,['Praha']
 Nad libeňským nádražím,['Praha']
@@ -3098,12 +3005,9 @@ Načešice,['Chrudim']
 Našiměřice,['Moravský Krumlov']
 Nebahovy,['Prachatice']
 Nebanice,['Cheb']
-Nebovidy,"['Kolín', 'Šlapanice']"
+Nebovidy,"['Šlapanice', 'Kolín']"
 Nebušice,['Praha']
-Nebušice-sever,['Praha']
 Nebušice-střed,['Praha']
-Nebušice-východ,['Praha']
-Nebušice-západ,['Praha']
 Nebužely,['Mělník']
 Nebílovy,['Přeštice']
 Nebřehovice,['Strakonice']
@@ -3165,7 +3069,7 @@ Netolice,['Prachatice']
 Netunice,['Přeštice']
 Netvořice,['Benešov']
 Netín,['Velké Meziříčí']
-Netřebice,"['Nymburk', 'Kaplice']"
+Netřebice,"['Kaplice', 'Nymburk']"
 Neubuz,['Vizovice']
 Neumětely,['Hořovice']
 Neuměř,['Stod']
@@ -3183,7 +3087,7 @@ Nevězice,['Písek']
 Nevřeň,['Nýřany']
 Nezabudice,['Rakovník']
 Nezabylice,['Chomutov']
-Nezamyslice,"['Sušice', 'Prostějov']"
+Nezamyslice,"['Prostějov', 'Sušice']"
 Nezbavětice,['Plzeň']
 Nezdenice,['Uherský Brod']
 Nezdice,['Přeštice']
@@ -3207,8 +3111,7 @@ Nosislav,['Židlochovice']
 Nosálov,['Mělník']
 Noviny pod Ralskem,['Česká Lípa']
 Novodvorská I,['Praha']
-Novodvorská II-východ,['Praha']
-Novodvorská II-západ,['Praha']
+Novodvorská II,['Praha']
 Novosedlice,['Teplice']
 Novosedly,"['Strakonice', 'Mikulov']"
 Novosedly nad Nežárkou,['Třeboň']
@@ -3227,7 +3130,7 @@ Nová Pláň,['Bruntál']
 Nová Role,['Karlovy Vary']
 Nová Sídla,['Litomyšl']
 Nová Telib,['Mladá Boleslav']
-Nová Ves,"['Brandýs n. Lab.-St.Boleslav', 'Kralupy nad Vltavou', 'České Budějovice', 'Český Krumlov', 'Strakonice', 'Domažlice', 'Stod', 'Sokolov', 'Louny', 'Liberec', 'Kostelec nad Orlicí', 'Třebíč', 'Velké Meziříčí', 'Ivančice', 'Praha']"
+Nová Ves,"['Liberec', 'České Budějovice', 'Domažlice', 'Praha', 'Kralupy nad Vltavou', 'Český Krumlov', 'Ivančice', 'Stod', 'Velké Meziříčí', 'Louny', 'Brandýs n. Lab.-St.Boleslav', 'Strakonice', 'Kostelec nad Orlicí', 'Sokolov', 'Třebíč']"
 Nová Ves I,['Kolín']
 Nová Ves nad Lužnicí,['Třeboň']
 Nová Ves nad Nisou,['Jablonec nad Nisou']
@@ -3242,16 +3145,13 @@ Nová Ves u Mladé Vožice,['Tábor']
 Nová Ves u Nového Města na Moravě,['Nové Město na Moravě']
 Nová Ves u Světlé,['Světlá nad Sázavou']
 Nová Ves v Horách,['Litvínov']
-Nová Ves-jih,['Praha']
 Nová Včelnice,['Jindřichův Hradec']
 Nová Říše,['Telč']
 Nové Bránice,['Ivančice']
+Nové Butovice,['Praha']
 Nové Butovice-Radlická,['Praha']
-Nové Butovice-jih,['Praha']
-Nové Butovice-východ,['Praha']
-Nové Butovice-západ,['Praha']
 Nové Chabry,['Praha']
-Nové Dvory,"['Dobříš', 'Kutná Hora', 'Roudnice nad Labem', 'Žďár nad Sázavou', 'Praha']"
+Nové Dvory,"['Kutná Hora', 'Dobříš', 'Roudnice nad Labem', 'Žďár nad Sázavou', 'Praha']"
 Nové Hamry,['Karlovy Vary']
 Nové Heřminovy,['Bruntál']
 Nové Hrady,"['Trhové Sviny', 'Vysoké Mýto']"
@@ -3267,7 +3167,7 @@ Nové Město pod Smrkem,['Frýdlant']
 Nové Pitkovice,['Praha']
 Nové Sady,"['Velké Meziříčí', 'Vyškov']"
 Nové Sedlice,['Opava']
-Nové Sedlo,"['Sokolov', 'Žatec']"
+Nové Sedlo,"['Žatec', 'Sokolov']"
 Nové Strašecí,['Rakovník']
 Nové Strašnice,['Praha']
 Nové Syrovice,['Moravské Budějovice']
@@ -3276,7 +3176,6 @@ Nové Vršovice,['Praha']
 Nové Vysočany,['Praha']
 Nové Zahradní Město,['Praha']
 Nové Ďáblice,['Praha']
-Nové Ďáblice-východ,['Praha']
 Nové Řepy,['Praha']
 Nové Štěrboholy,['Praha']
 Nový Bor,['Nový Bor']
@@ -3339,16 +3238,16 @@ Nýrov,['Boskovice']
 Nýrsko,['Klatovy']
 Nýřany,['Nýřany']
 Němčany,['Slavkov u Brna']
-Němčice,"['Kolín', 'Mladá Boleslav', 'Prachatice', 'Strakonice', 'Domažlice', 'Litomyšl', 'Pardubice', 'Boskovice', 'Holešov']"
+Němčice,"['Domažlice', 'Kolín', 'Boskovice', 'Holešov', 'Pardubice', 'Mladá Boleslav', 'Strakonice', 'Litomyšl', 'Prachatice']"
 Němčice nad Hanou,['Prostějov']
-Němčičky,"['Hustopeče', 'Ivančice', 'Znojmo']"
+Němčičky,"['Hustopeče', 'Znojmo', 'Ivančice']"
 Němčovice,['Rokycany']
 Němětice,['Strakonice']
 Obchodní centrum Chodov,['Praha']
 Obchodní centrum Letňany,['Praha']
 Obchodní centrum Černý Most,['Praha']
 Obecnice,['Příbram']
-Obora,"['Kralovice', 'Tachov', 'Louny', 'Boskovice']"
+Obora,"['Boskovice', 'Louny', 'Kralovice', 'Tachov']"
 Oborná,['Bruntál']
 Obory,['Příbram']
 Obořiště,['Dobříš']
@@ -3389,7 +3288,7 @@ Okoř,['Černošice']
 Okrouhlice,['Havlíčkův Brod']
 Okrouhlička,['Havlíčkův Brod']
 Okrouhlo,['Černošice']
-Okrouhlá,"['Milevsko', 'Cheb', 'Nový Bor', 'Boskovice']"
+Okrouhlá,"['Cheb', 'Nový Bor', 'Milevsko', 'Boskovice']"
 Okrouhlá Radouň,['Jindřichův Hradec']
 Okřesaneč,['Čáslav']
 Okřešice,['Třebíč']
@@ -3408,16 +3307,16 @@ Oleksovice,['Znojmo']
 Olešenka,['Havlíčkův Brod']
 Oleška,['Říčany']
 Oleško,['Litoměřice']
-Olešnice,"['Trhové Sviny', 'Turnov', 'Hradec Králové', 'Kostelec nad Orlicí', 'Boskovice']"
+Olešnice,"['Turnov', 'Boskovice', 'Hradec Králové', 'Trhové Sviny', 'Kostelec nad Orlicí']"
 Olešnice v Orlických horách,['Dobruška']
-Olešná,"['Hořovice', 'Rakovník', 'Písek', 'Havlíčkův Brod', 'Pelhřimov']"
+Olešná,"['Hořovice', 'Pelhřimov', 'Havlíčkův Brod', 'Písek', 'Rakovník']"
 Olešník,['České Budějovice']
 Olomouc,['Olomouc']
 Olomučany,['Blansko']
 Olovnice,['Kralupy nad Vltavou']
 Oloví,['Kraslice']
 Olšanské hřbitovy,['Praha']
-Olšany,"['Horažďovice', 'Telč', 'Vyškov', 'Šumperk']"
+Olšany,"['Telč', 'Vyškov', 'Šumperk', 'Horažďovice']"
 Olšany u Prostějova,['Prostějov']
 Olšovec,['Hranice']
 Olšovice,['Prachatice']
@@ -3427,10 +3326,10 @@ Omlenice,['Kaplice']
 Ondratice,['Prostějov']
 Ondřejov,"['Říčany', 'Pelhřimov']"
 Onomyšl,['Kutná Hora']
-Onšov,"['Pelhřimov', 'Znojmo']"
-Opatov,"['Svitavy', 'Jihlava', 'Třebíč']"
+Onšov,"['Znojmo', 'Pelhřimov']"
+Opatov,"['Jihlava', 'Svitavy', 'Třebíč']"
 Opatovec,['Svitavy']
-Opatovice,"['Židlochovice', 'Hranice']"
+Opatovice,"['Hranice', 'Židlochovice']"
 Opatovice I,['Kutná Hora']
 Opatovice nad Labem,['Pardubice']
 Opava,['Opava']
@@ -3441,7 +3340,7 @@ Oplot,['Přeštice']
 Opolany,['Poděbrady']
 Oponešice,['Moravské Budějovice']
 Opočnice,['Poděbrady']
-Opočno,"['Louny', 'Dobruška']"
+Opočno,"['Dobruška', 'Louny']"
 Oprostovice,['Přerov']
 Orel,['Chrudim']
 Orlické Podhůří,['Ústí nad Orlicí']
@@ -3452,7 +3351,7 @@ Orlová,['Orlová']
 Orlík nad Vltavou,['Písek']
 Ortenovo náměstí,['Praha']
 Oráčov,['Rakovník']
-Osek,"['Hořovice', 'Milevsko', 'Strakonice', 'Rokycany', 'Teplice', 'Jičín']"
+Osek,"['Hořovice', 'Milevsko', 'Jičín', 'Strakonice', 'Rokycany', 'Teplice']"
 Osek nad Bečvou,['Lipník nad Bečvou']
 Oselce,['Nepomuk']
 Osečany,['Sedlčany']
@@ -3480,7 +3379,7 @@ Ostrava,['Ostrava']
 Ostravice,['Frýdlant nad Ostravicí']
 Ostrolovský Újezd,['Trhové Sviny']
 Ostroměř,['Hořice']
-Ostrov,"['Příbram', 'Vlašim', 'Ostrov', 'Chrudim', 'Lanškroun', 'Světlá nad Sázavou']"
+Ostrov,"['Ostrov', 'Vlašim', 'Lanškroun', 'Světlá nad Sázavou', 'Příbram', 'Chrudim']"
 Ostrov nad Oslavou,['Žďár nad Sázavou']
 Ostrov u Bezdružic,['Nýřany']
 Ostrov u Macochy,['Blansko']
@@ -3515,19 +3414,19 @@ Otročiněves,['Beroun']
 Otročín,['Karlovy Vary']
 Otvice,['Chomutov']
 Otvovice,['Kladno']
-Otín,"['Jihlava', 'Velké Meziříčí']"
+Otín,"['Velké Meziříčí', 'Jihlava']"
 Otěšice,['Přeštice']
 Ouběnice,['Dobříš']
 Oucmanice,['Vysoké Mýto']
 Oudoleň,['Chotěboř']
 Ovesná Lhota,['Světlá nad Sázavou']
 Ovesné Kladruby,['Mariánské Lázně']
-Ovčáry,"['Kolín', 'Neratovice']"
+Ovčáry,"['Neratovice', 'Kolín']"
 Oznice,['Valašské Meziříčí']
 Očelice,['Dobruška']
 Očihov,['Podbořany']
 Ořech,['Černošice']
-Ořechov,"['Telč', 'Velké Meziříčí', 'Šlapanice', 'Uherské Hradiště']"
+Ořechov,"['Telč', 'Velké Meziříčí', 'Uherské Hradiště', 'Šlapanice']"
 Ořechovka,['Praha']
 Ošelín,['Stříbro']
 Paběnice,"['Kutná Hora', 'Praha']"
@@ -3540,8 +3439,7 @@ Pamětice,['Boskovice']
 Panenská Rozsíčka,['Jihlava']
 Panenské Břežany,['Brandýs n. Lab.-St.Boleslav']
 Panenský Týnec,['Louny']
-Pankrác I-východ,['Praha']
-Pankrác I-západ,['Praha']
+Pankrác I,['Praha']
 Pankrác II,['Praha']
 Pankrác-nákupní zóna,['Praha']
 Pankrác-u Michelské vodárenské věže,['Praha']
@@ -3563,7 +3461,7 @@ Pastuchovice,['Kralovice']
 Pastviny,['Žamberk']
 Patokryje,['Most']
 Pavlice,['Znojmo']
-Pavlov,"['Kladno', 'Jihlava', 'Pelhřimov', 'Světlá nad Sázavou', 'Žďár nad Sázavou', 'Mikulov', 'Mohelnice']"
+Pavlov,"['Jihlava', 'Pelhřimov', 'Světlá nad Sázavou', 'Mikulov', 'Žďár nad Sázavou', 'Mohelnice', 'Kladno']"
 Pavlovice,['Vlašim']
 Pavlovice u Kojetína,['Prostějov']
 Pavlovice u Přerova,['Přerov']
@@ -3595,9 +3493,9 @@ Pesvice,['Chomutov']
 Petkovy,['Mladá Boleslav']
 Petrohrad,['Podbořany']
 Petroupim,['Benešov']
-Petrov,"['Černošice', 'Boskovice', 'Hodonín']"
+Petrov,"['Boskovice', 'Černošice', 'Hodonín']"
 Petrov nad Desnou,['Šumperk']
-Petrovice,"['Rakovník', 'Sedlčany', 'Ústí nad Labem', 'Nový Bydžov', 'Lanškroun', 'Třebíč', 'Blansko', 'Moravský Krumlov', 'Krnov', 'Praha']"
+Petrovice,"['Sedlčany', 'Lanškroun', 'Praha', 'Moravský Krumlov', 'Blansko', 'Krnov', 'Rakovník', 'Nový Bydžov', 'Ústí nad Labem', 'Třebíč']"
 Petrovice I,['Kutná Hora']
 Petrovice Ii,['Kutná Hora']
 Petrovice u Karviné,['Karviná']
@@ -3605,7 +3503,6 @@ Petrovice u Sušice,['Sušice']
 Petrovice-Hostivařská přehrada,['Praha']
 Petrovice-střed,['Praha']
 Petrovice-sídliště,['Praha']
-Petrovice-východ,['Praha']
 Petrovičky,['Hořice']
 Petrský obvod,['Praha']
 Petráveč,['Velké Meziříčí']
@@ -3615,7 +3512,7 @@ Petřiny I,['Praha']
 Petřiny II,['Praha']
 Petřiny III,['Praha']
 Petřvald,"['Kopřivnice', 'Orlová']"
-Petříkov,"['Říčany', 'Trhové Sviny']"
+Petříkov,"['Trhové Sviny', 'Říčany']"
 Peč,['Dačice']
 Pečice,['Příbram']
 Pečky,['Kolín']
@@ -3625,7 +3522,6 @@ Pila,['Karlovy Vary']
 Pilníkov,['Trutnov']
 Pilské,['Praha']
 Pitkovice,['Praha']
-Pitkovice-sever,['Praha']
 Pitín,['Uherský Brod']
 Pivkovice,['Vodňany']
 Pivín,['Prostějov']
@@ -3679,8 +3575,7 @@ Pod Ládvím,['Praha']
 Pod Pražačkou,['Praha']
 Pod Prosekem,['Praha']
 Pod Vidoulí,['Praha']
-Pod Zbuzany-východ,['Praha']
-Pod Zbuzany-západ,['Praha']
+Pod Zbuzany,['Praha']
 Pod Zličínem,['Praha']
 Pod březinou,['Praha']
 Pod kobyliskou vozovnou,['Praha']
@@ -3696,7 +3591,7 @@ Podbřežice,['Vyškov']
 Podhorní Újezd a Vojice,['Hořice']
 Podhořany u Ronova,['Chrudim']
 Podhradní Lhota,['Bystřice pod Hostýnem']
-Podhradí,"['Aš', 'Jičín', 'Luhačovice']"
+Podhradí,"['Luhačovice', 'Jičín', 'Aš']"
 Podhradí nad Dyjí,['Znojmo']
 Podivice,['Vyškov']
 Podivín,['Břeclav']
@@ -3710,7 +3605,7 @@ Podmoky,"['Poděbrady', 'Havlíčkův Brod']"
 Podmolí,['Znojmo']
 Podmyče,['Znojmo']
 Podolanka,['Brandýs n. Lab.-St.Boleslav']
-Podolí,"['Nové Město na Moravě', 'Šlapanice', 'Přerov', 'Uherské Hradiště', 'Valašské Meziříčí', 'Praha']"
+Podolí,"['Valašské Meziříčí', 'Přerov', 'Šlapanice', 'Nové Město na Moravě', 'Uherské Hradiště', 'Praha']"
 Podolí I,['Písek']
 Podolí-pod Vyšehradem,['Praha']
 Podomí,['Vyškov']
@@ -3731,19 +3626,19 @@ Pohnání,['Tábor']
 Pohorovice,['Vodňany']
 Pohorská Ves,['Kaplice']
 Pohořelec,['Praha']
-Pohořelice,"['Pohořelice', 'Otrokovice']"
+Pohořelice,"['Otrokovice', 'Pohořelice']"
 Pohoří,"['Černošice', 'Dobruška']"
 Pojbuky,['Tábor']
 Pokojov,['Žďár nad Sázavou']
 Pokojovice,['Třebíč']
 Pokřikov,['Hlinsko']
-Polepy,"['Kolín', 'Litoměřice']"
+Polepy,"['Litoměřice', 'Kolín']"
 Polerady,"['Brandýs n. Lab.-St.Boleslav', 'Most']"
 Polesí,['Pelhřimov']
 Polevsko,['Nový Bor']
 Poleň,['Klatovy']
 Polešovice,['Uherské Hradiště']
-Police,"['Moravské Budějovice', 'Mohelnice', 'Valašské Meziříčí']"
+Police,"['Valašské Meziříčí', 'Mohelnice', 'Moravské Budějovice']"
 Police nad Metují,['Náchod']
 Polička,['Polička']
 Poličná,['Valašské Meziříčí']
@@ -3753,7 +3648,7 @@ Polná,['Jihlava']
 Polná na Šumavě,['Český Krumlov']
 Polní Chrčice,['Kolín']
 Polní Voděrady,['Kolín']
-Polom,"['Rychnov nad Kněžnou', 'Hranice']"
+Polom,"['Hranice', 'Rychnov nad Kněžnou']"
 Polomí,['Konice']
 Polánka,['Nepomuk']
 Polště,['Jindřichův Hradec']
@@ -3765,9 +3660,9 @@ Ponědrážka,['Třeboň']
 Ponětovice,['Šlapanice']
 Popelín,['Jindřichův Hradec']
 Popice,['Hustopeče']
-Popovice,"['Benešov', 'Židlochovice', 'Uherské Hradiště']"
+Popovice,"['Benešov', 'Uherské Hradiště', 'Židlochovice']"
 Popovičky,['Říčany']
-Popůvky,"['Náměšť nad Oslavou', 'Šlapanice']"
+Popůvky,"['Šlapanice', 'Náměšť nad Oslavou']"
 Postoloprty,['Louny']
 Postupice,['Benešov']
 Postřekov,['Domažlice']
@@ -3818,8 +3713,8 @@ Pravonín,['Vlašim']
 Pravy,['Pardubice']
 Pravčice,['Kroměříž']
 Pražmo,['Frýdek-Místek']
+Pražská čtvrť,['Praha']
 Pražská čtvrť-Na Žernovkách,['Praha']
-Pražská čtvrť-západ,['Praha']
 Prlov,['Vsetín']
 Proboštov,['Teplice']
 Probulov,['Písek']
@@ -3829,11 +3724,9 @@ Prokopské údolí,['Praha']
 Proruby,['Rychnov nad Kněžnou']
 Prosek,['Praha']
 Prosek Park,['Praha']
-Prosek-sever,['Praha']
-Prosek-východ,['Praha']
 Prosenice,['Přerov']
 Prosenická Lhota,['Sedlčany']
-Prosetín,"['Chrudim', 'Bystřice nad Pernštejnem']"
+Prosetín,"['Bystřice nad Pernštejnem', 'Chrudim']"
 Proseč,"['Chrudim', 'Humpolec']"
 Proseč pod Ještědem,['Liberec']
 Proseč pod Křemešníkem,['Pelhřimov']
@@ -3892,9 +3785,9 @@ Páleč,['Slaný']
 Pálovice,['Moravské Budějovice']
 Pátek,['Poděbrady']
 Písařov,['Šumperk']
-Písek,"['Písek', 'Hradec Králové', 'Jablunkov']"
-Písečná,"['Žamberk', 'Jeseník', 'Jablunkov']"
-Písečné,"['Dačice', 'Bystřice nad Pernštejnem']"
+Písek,"['Jablunkov', 'Písek', 'Hradec Králové']"
+Písečná,"['Jablunkov', 'Žamberk', 'Jeseník']"
+Písečné,"['Bystřice nad Pernštejnem', 'Dačice']"
 Písková Lhota,"['Mladá Boleslav', 'Poděbrady']"
 Písnice,['Praha']
 Písnice-skladový areál,['Praha']
@@ -3902,9 +3795,9 @@ Písnice-sídliště,['Praha']
 Písnice-u Libušského potoka,['Praha']
 Pístina,['Jindřichův Hradec']
 Písty,['Nymburk']
-Píšť,"['Humpolec', 'Hlučín']"
+Píšť,"['Hlučín', 'Humpolec']"
 Píšťany,['Litoměřice']
-Pěnčín,"['Turnov', 'Železný Brod', 'Prostějov']"
+Pěnčín,"['Železný Brod', 'Turnov', 'Prostějov']"
 Pětihosty,['Říčany']
 Pětikozly,['Mladá Boleslav']
 Pětipsy,['Kadaň']
@@ -3940,13 +3833,13 @@ Přelovice,['Přelouč']
 Přelíc,['Slaný']
 Přemyslovice,['Konice']
 Přepeře,"['Mladá Boleslav', 'Turnov']"
-Přepychy,"['Dobruška', 'Přelouč']"
+Přepychy,"['Přelouč', 'Dobruška']"
 Přerov,['Přerov']
 Přerov nad Labem,['Lysá nad Labem']
 Přerubenice,['Rakovník']
 Přeskače,['Znojmo']
 Přestanov,['Ústí nad Labem']
-Přestavlky,"['Stod', 'Roudnice nad Labem', 'Chrudim', 'Přerov']"
+Přestavlky,"['Chrudim', 'Přerov', 'Roudnice nad Labem', 'Stod']"
 Přestavlky u Čerčan,['Benešov']
 Převýšov,['Hradec Králové']
 Přezletice,['Brandýs n. Lab.-St.Boleslav']
@@ -3956,7 +3849,7 @@ Přeštěnice,['Milevsko']
 Přešťovice,['Strakonice']
 Přibice,['Pohořelice']
 Přibyslav,"['Nové Město nad Metují', 'Havlíčkův Brod']"
-Přibyslavice,"['Třebíč', 'Rosice']"
+Přibyslavice,"['Rosice', 'Třebíč']"
 Přimda,['Tachov']
 Přistoupim,['Český Brod']
 Přišimasy,['Český Brod']
@@ -3970,7 +3863,7 @@ Přídolí,['Český Krumlov']
 Příkazy,['Olomouc']
 Příkosice,['Rokycany']
 Příkrý,['Semily']
-Přílepy,"['Rakovník', 'Holešov']"
+Přílepy,"['Holešov', 'Rakovník']"
 Příluka,['Litomyšl']
 Příseka,['Světlá nad Sázavou']
 Přísečná,['Český Krumlov']
@@ -3997,12 +3890,12 @@ Radešín,['Nové Město na Moravě']
 Radešínská Svratka,['Nové Město na Moravě']
 Radhostice,['Prachatice']
 Radhošť,['Vysoké Mýto']
-Radim,"['Kolín', 'Jičín']"
+Radim,"['Jičín', 'Kolín']"
 Radimovice,['Turnov']
 Radimovice u Tábora,['Tábor']
 Radimovice u Želče,['Tábor']
 Radiměř,['Svitavy']
-Radkov,"['Tábor', 'Moravská Třebová', 'Bystřice nad Pernštejnem', 'Telč', 'Vítkov']"
+Radkov,"['Telč', 'Vítkov', 'Moravská Třebová', 'Tábor', 'Bystřice nad Pernštejnem']"
 Radkova Lhota,['Přerov']
 Radkovice,['Přeštice']
 Radkovice u Budče,['Moravské Budějovice']
@@ -4017,19 +3910,18 @@ Radonín,['Třebíč']
 Radostice,['Šlapanice']
 Radostná pod Kozákovem,['Turnov']
 Radostov,['Hradec Králové']
-Radostín,"['Havlíčkův Brod', 'Žďár nad Sázavou']"
+Radostín,"['Žďár nad Sázavou', 'Havlíčkův Brod']"
 Radostín nad Oslavou,['Žďár nad Sázavou']
 Radotice,['Moravské Budějovice']
-Radotín,"['Lipník nad Bečvou', 'Praha']"
+Radotín,"['Praha', 'Lipník nad Bečvou']"
 Radotín-Pod Velkým hájem,['Praha']
 Radotín-průmyslový obvod,['Praha']
 Radotín-střed,['Praha']
-Radotín-východ,['Praha']
 Radovesice,['Lovosice']
 Radovesnice I,['Kolín']
 Radovesnice Ii,['Kolín']
 Radošov,['Třebíč']
-Radošovice,"['Vlašim', 'České Budějovice', 'Strakonice']"
+Radošovice,"['Vlašim', 'Strakonice', 'České Budějovice']"
 Radslavice,"['Vyškov', 'Přerov']"
 Raduň,['Opava']
 Radvanec,['Nový Bor']
@@ -4039,8 +3931,8 @@ Radíkovice,['Hradec Králové']
 Radíč,['Sedlčany']
 Radčice,['Železný Brod']
 Radějov,['Veselí nad Moravou']
-Radějovice,"['Říčany', 'Strakonice']"
-Radětice,"['Příbram', 'Tábor']"
+Radějovice,"['Strakonice', 'Říčany']"
+Radětice,"['Tábor', 'Příbram']"
 Radňoves,['Velké Meziříčí']
 Radňovice,['Nové Město na Moravě']
 Rajhrad,['Židlochovice']
@@ -4056,14 +3948,14 @@ Rakvice,['Břeclav']
 Rakůvka,['Konice']
 Ralsko,['Česká Lípa']
 Rantířov,['Jihlava']
-Raná,"['Louny', 'Hlinsko']"
+Raná,"['Hlinsko', 'Louny']"
 Rančířov,['Jihlava']
 Rapotice,['Náměšť nad Oslavou']
 Rapotín,['Šumperk']
 Rapšach,['Třeboň']
 Rasošky,['Jaroměř']
 Raspenava,['Frýdlant']
-Rataje,"['Vlašim', 'Tábor', 'Kroměříž']"
+Rataje,"['Tábor', 'Vlašim', 'Kroměříž']"
 Rataje nad Sázavou,['Kutná Hora']
 Ratboř,['Kolín']
 Ratenice,['Kolín']
@@ -4073,14 +3965,14 @@ Ratměřice,['Votice']
 Ratíškovice,['Hodonín']
 Razová,['Bruntál']
 Račetice,['Kadaň']
-Račice,"['Rakovník', 'Litoměřice', 'Nové Město na Moravě', 'Třebíč']"
+Račice,"['Třebíč', 'Nové Město na Moravě', 'Rakovník', 'Litoměřice']"
 Račice nad Trotinou,['Hradec Králové']
 Račice-Pístovice,['Vyškov']
 Račiněves,['Roudnice nad Labem']
 Račín,['Žďár nad Sázavou']
 Raškovice,['Frýdek-Místek']
 Rašov,['Tišnov']
-Rašovice,"['Kutná Hora', 'Bučovice']"
+Rašovice,"['Bučovice', 'Kutná Hora']"
 Rašín,['Hořice']
 Ražice,['Písek']
 Rebešovice,['Šlapanice']
@@ -4104,15 +3996,15 @@ Rohenice,['Dobruška']
 Rohle,['Zábřeh']
 Rohov,['Kravaře']
 Rohovládova Bělá,['Pardubice']
-Rohozec,"['Čáslav', 'Tišnov']"
-Rohoznice,"['Hořice', 'Pardubice']"
-Rohozná,"['Svitavy', 'Jihlava']"
+Rohozec,"['Tišnov', 'Čáslav']"
+Rohoznice,"['Pardubice', 'Hořice']"
+Rohozná,"['Jihlava', 'Svitavy']"
 Rohožník,['Praha']
 Rohy,['Třebíč']
 Rojetín,['Tišnov']
 Rokle,['Kadaň']
 Rokycany,['Rokycany']
-Rokytnice,"['Přerov', 'Valašské Klobouky']"
+Rokytnice,"['Valašské Klobouky', 'Přerov']"
 Rokytnice nad Jizerou,['Jilemnice']
 Rokytnice nad Rokytnou,['Třebíč']
 Rokytnice v Orlických horách,['Rychnov nad Kněžnou']
@@ -4153,7 +4045,7 @@ Rozseč,"['Telč', 'Velké Meziříčí']"
 Rozseč nad Kunštátem,['Boskovice']
 Rozsochatec,['Havlíčkův Brod']
 Rozsochy,['Bystřice nad Pernštejnem']
-Rozstání,"['Moravská Třebová', 'Prostějov']"
+Rozstání,"['Prostějov', 'Moravská Třebová']"
 Rozsíčka,['Boskovice']
 Roztoky,"['Černošice', 'Rakovník']"
 Roztoky u Jilemnice,['Jilemnice']
@@ -4172,9 +4064,9 @@ Rožďalovice,['Nymburk']
 Rpety,['Hořovice']
 Rtyně nad Bílinou,['Teplice']
 Rtyně v Podkrkonoší,['Trutnov']
-Ruda,"['Rakovník', 'Velké Meziříčí']"
+Ruda,"['Velké Meziříčí', 'Rakovník']"
 Ruda nad Moravou,['Šumperk']
-Rudice,"['Blansko', 'Uherský Brod']"
+Rudice,"['Uherský Brod', 'Blansko']"
 Rudimov,['Luhačovice']
 Rudka,['Rosice']
 Rudlice,['Znojmo']
@@ -4194,16 +4086,15 @@ Ruzyně-Na Července,['Praha']
 Ruzyně-letiště,['Praha']
 Ruzyně-nad tratí,['Praha']
 Ruzyně-pod letištěm,['Praha']
-Ruzyně-západ,['Praha']
 Rušinov,['Chotěboř']
 Rybitví,['Pardubice']
 Rybnice,['Kralovice']
 Rybniště,['Varnsdorf']
 Rybná nad Zdobnicí,['Rychnov nad Kněžnou']
 Rybné,['Jihlava']
-Rybník,"['Domažlice', 'Česká Třebová']"
-Rybníky,"['Dobříš', 'Moravský Krumlov']"
-Rybníček,"['Havlíčkův Brod', 'Vyškov']"
+Rybník,"['Česká Třebová', 'Domažlice']"
+Rybníky,"['Moravský Krumlov', 'Dobříš']"
+Rybníček,"['Vyškov', 'Havlíčkův Brod']"
 Rybníčky I-II,['Praha']
 Rybníčky III,['Praha']
 Rybí,['Nový Jičín']
@@ -4239,24 +4130,22 @@ Samšina,['Jičín']
 Samšín,['Pacov']
 Satalice,['Praha']
 Satalice-pod tratí,['Praha']
-Satalice-sever,['Praha']
-Satalice-východ,['Praha']
 Sazená,['Slaný']
 Sazomín,['Žďár nad Sázavou']
 Sazovice,['Zlín']
 Sběř,['Jičín']
 Schořov,['Čáslav']
 Sebečice,['Rokycany']
-Sebranice,"['Litomyšl', 'Boskovice']"
+Sebranice,"['Boskovice', 'Litomyšl']"
 Sedlatice,['Telč']
-Sedlec,"['Brandýs n. Lab.-St.Boleslav', 'Mladá Boleslav', 'České Budějovice', 'Kralovice', 'Lovosice', 'Náměšť nad Oslavou', 'Mikulov', 'Praha']"
+Sedlec,"['České Budějovice', 'Náměšť nad Oslavou', 'Lovosice', 'Mladá Boleslav', 'Mikulov', 'Kralovice', 'Brandýs n. Lab.-St.Boleslav', 'Praha']"
 Sedlec-Prčice,['Sedlčany']
 Sedlec-u výtopny,['Praha']
 Sedlejov,['Telč']
 Sedletín,['Chotěboř']
 Sedlečko u Soběslavě,['Soběslav']
 Sedlice,"['Příbram', 'Blatná', 'Humpolec']"
-Sedliště,"['Nepomuk', 'Jičín', 'Litomyšl', 'Frýdek-Místek']"
+Sedliště,"['Jičín', 'Nepomuk', 'Litomyšl', 'Frýdek-Místek']"
 Sedlnice,['Nový Jičín']
 Sedloňov,['Dobruška']
 Sedlčany,['Sedlčany']
@@ -4291,7 +4180,7 @@ Sentice,['Tišnov']
 Sepekov,['Milevsko']
 Sezemice,"['Mnichovo Hradiště', 'Pardubice']"
 Sezimovo Ústí,['Tábor']
-Seč,"['Blovice', 'Chrudim', 'Vysoké Mýto']"
+Seč,"['Chrudim', 'Vysoké Mýto', 'Blovice']"
 Seřaďovací nádraží,['Praha']
 Sibřina,['Brandýs n. Lab.-St.Boleslav']
 Silůvky,['Šlapanice']
@@ -4299,18 +4188,18 @@ Sirá,['Rokycany']
 Sirákov,['Žďár nad Sázavou']
 Sivice,['Šlapanice']
 Siřejovice,['Lovosice']
-Skalice,"['Soběslav', 'Hradec Králové', 'Moravský Krumlov']"
+Skalice,"['Moravský Krumlov', 'Hradec Králové', 'Soběslav']"
 Skalice nad Svitavou,['Boskovice']
 Skalice u České Lípy,['Nový Bor']
-Skalička,"['Tišnov', 'Hranice']"
-Skalka,"['Kyjov', 'Prostějov', 'Praha']"
+Skalička,"['Hranice', 'Tišnov']"
+Skalka,"['Prostějov', 'Kyjov', 'Praha']"
 Skalka u Doks,['Česká Lípa']
 Skalná,['Cheb']
 Skalsko,['Mladá Boleslav']
 Skapce,['Stříbro']
 Skašov,['Přeštice']
 Skaštice,['Kroměříž']
-Sklené,"['Svitavy', 'Žďár nad Sázavou']"
+Sklené,"['Žďár nad Sázavou', 'Svitavy']"
 Sklené nad Oslavou,['Velké Meziříčí']
 Skomelno,['Rokycany']
 Skopytce,['Tábor']
@@ -4324,10 +4213,10 @@ Skořenice,['Vysoké Mýto']
 Skořice,['Rokycany']
 Skrbeň,['Olomouc']
 Skrchov,['Boskovice']
-Skryje,"['Rakovník', 'Havlíčkův Brod', 'Tišnov']"
+Skryje,"['Tišnov', 'Rakovník', 'Havlíčkův Brod']"
 Skrýchov u Malšic,['Tábor']
 Skršín,['Most']
-Skuhrov,"['Beroun', 'Železný Brod', 'Havlíčkův Brod']"
+Skuhrov,"['Železný Brod', 'Beroun', 'Havlíčkův Brod']"
 Skuhrov nad Bělou,['Rychnov nad Kněžnou']
 Skuteč,['Chrudim']
 Skvrňov,['Kolín']
@@ -4344,8 +4233,8 @@ Slaná,['Semily']
 Slaník,['Strakonice']
 Slaný,['Slaný']
 Slapsko,['Tábor']
-Slapy,"['Černošice', 'Tábor']"
-Slatina,"['Kladno', 'Horažďovice', 'Kralovice', 'Lovosice', 'Moravská Třebová', 'Vysoké Mýto', 'Znojmo', 'Bílovec']"
+Slapy,"['Tábor', 'Černošice']"
+Slatina,"['Moravská Třebová', 'Znojmo', 'Lovosice', 'Bílovec', 'Vysoké Mýto', 'Kralovice', 'Horažďovice', 'Kladno']"
 Slatina nad Zdobnicí,['Rychnov nad Kněžnou']
 Slatina nad Úpou,['Náchod']
 Slatinice,['Olomouc']
@@ -4367,7 +4256,7 @@ Slavíkov,['Chotěboř']
 Slavíkovice,['Moravské Budějovice']
 Slavče,['Trhové Sviny']
 Slavětice,['Třebíč']
-Slavětín,"['Louny', 'Chotěboř', 'Litovel']"
+Slavětín,"['Chotěboř', 'Litovel', 'Louny']"
 Slavětín nad Metují,['Nové Město nad Metují']
 Slepotice,['Pardubice']
 Slezské Pavlovice,['Krnov']
@@ -4377,7 +4266,7 @@ Slopné,['Luhačovice']
 Sloup,['Blansko']
 Sloup v Čechách,['Nový Bor']
 Sloupnice,['Litomyšl']
-Sloupno,"['Nový Bydžov', 'Chotěboř']"
+Sloupno,"['Chotěboř', 'Nový Bydžov']"
 Slovanka,['Praha']
 Sloveč,['Poděbrady']
 Slověnice,['Vlašim']
@@ -4416,7 +4305,7 @@ Smědčice,['Rokycany']
 Snovídky,['Bučovice']
 Snědovice,['Litoměřice']
 Snět,['Vlašim']
-Sněžné,"['Dobruška', 'Nové Město na Moravě']"
+Sněžné,"['Nové Město na Moravě', 'Dobruška']"
 Sobkovice,['Žamberk']
 Sobotka,['Jičín']
 Sobotovice,['Židlochovice']
@@ -4447,7 +4336,7 @@ Solidarita,['Praha']
 Solnice,['Rychnov nad Kněžnou']
 Sopotnice,['Ústí nad Orlicí']
 Sopřeč,['Přelouč']
-Sosnová,"['Česká Lípa', 'Opava']"
+Sosnová,"['Opava', 'Česká Lípa']"
 Sousedovice,['Strakonice']
 Soutice,['Vlašim']
 Souňov,['Čáslav']
@@ -4473,7 +4362,7 @@ Srbeč,['Rakovník']
 Srbice,"['Domažlice', 'Teplice']"
 Srbsko,['Beroun']
 Srbská Kamenice,['Děčín']
-Srby,"['Horšovský Týn', 'Nepomuk']"
+Srby,"['Nepomuk', 'Horšovský Týn']"
 Srch,['Pardubice']
 Srnojedy,['Pardubice']
 Srní,['Sušice']
@@ -4494,7 +4383,7 @@ Stará Lysá,['Lysá nad Labem']
 Stará Paka,['Nová Paka']
 Stará Ves,"['Přerov', 'Rýmařov']"
 Stará Ves nad Ondřejnicí,['Ostrava']
-Stará Voda,"['Mariánské Lázně', 'Hradec Králové']"
+Stará Voda,"['Hradec Králové', 'Mariánské Lázně']"
 Stará Červená Voda,['Jeseník']
 Stará Říše,['Telč']
 Staré Bohnice,['Praha']
@@ -4516,12 +4405,12 @@ Staré Křečany,['Rumburk']
 Staré Letňany,['Praha']
 Staré Malešice,['Praha']
 Staré Místo,['Jičín']
-Staré Město,"['Moravská Třebová', 'Šumperk', 'Uherské Hradiště', 'Bruntál', 'Frýdek-Místek', 'Praha']"
+Staré Město,"['Moravská Třebová', 'Frýdek-Místek', 'Bruntál', 'Šumperk', 'Uherské Hradiště', 'Praha']"
 Staré Město pod Landštejnem,['Jindřichův Hradec']
 Staré Podolí,['Praha']
 Staré Radlice,['Praha']
 Staré Sedliště,['Tachov']
-Staré Sedlo,"['Tachov', 'Sokolov']"
+Staré Sedlo,"['Sokolov', 'Tachov']"
 Staré Smrkovice,['Hořice']
 Staré Těchanovice,['Vítkov']
 Staré Vokovice,['Praha']
@@ -4551,21 +4440,18 @@ Statenice,['Černošice']
 Stavenice,['Mohelnice']
 Stavěšice,['Kyjov']
 Staňkov,"['Třeboň', 'Horšovský Týn']"
-Staňkovice,"['Kutná Hora', 'Litoměřice', 'Žatec']"
+Staňkovice,"['Žatec', 'Kutná Hora', 'Litoměřice']"
 Stařechovice,['Prostějov']
 Stařeč,['Třebíč']
 Staříč,['Frýdek-Místek']
-Stašov,"['Beroun', 'Polička']"
+Stašov,"['Polička', 'Beroun']"
 Stebno,['Ústí nad Labem']
 Stehelčeves,['Kladno']
 Stehlovice,['Milevsko']
 Stochov,['Kladno']
 Stod,['Stod']
 Stodůlky,['Praha']
-Stodůlky-sever,['Praha']
 Stodůlky-střed,['Praha']
-Stodůlky-východ,['Praha']
-Stodůlky-západ,['Praha']
 Stojice,['Přelouč']
 Stojčín,['Pelhřimov']
 Stolany,['Chrudim']
@@ -4596,9 +4482,7 @@ Straškov-Vodochody,['Roudnice nad Labem']
 Strašnice,['Praha']
 Strašnice-Na Skalce,['Praha']
 Strašnice-Za Dráhou,['Praha']
-Strašnice-východ,['Praha']
 Strašnice-za Skalkou,['Praha']
-Strašnice-západ,['Praha']
 Strašnov,['Mladá Boleslav']
 Strašov,['Přelouč']
 Strašín,['Sušice']
@@ -4641,7 +4525,7 @@ Studená,"['Dačice', 'Kralovice']"
 Studené,['Žamberk']
 Studený,['Vlašim']
 Studeněves,['Slaný']
-Studnice,"['Náchod', 'Hlinsko', 'Třebíč', 'Vyškov']"
+Studnice,"['Třebíč', 'Hlinsko', 'Vyškov', 'Náchod']"
 Studánka,['Tachov']
 Studénka,['Bílovec']
 Stupava,['Uherské Hradiště']
@@ -4656,7 +4540,7 @@ Stínava,['Prostějov']
 Stěbořice,['Opava']
 Stěžery,['Hradec Králové']
 Středokluky,['Černošice']
-Střelice,"['Stod', 'Šlapanice', 'Znojmo']"
+Střelice,"['Znojmo', 'Šlapanice', 'Stod']"
 Střelná,['Vsetín']
 Střelské Hoštice,['Strakonice']
 Střemošice,['Chrudim']
@@ -4666,7 +4550,6 @@ Střezetice,['Hradec Králové']
 Střezimíř,['Votice']
 Střeň,['Litovel']
 Střešovice,['Praha']
-Střešovice-jih,['Praha']
 Střešovická nemocnice,['Praha']
 Stříbrnice,"['Přerov', 'Uherské Hradiště']"
 Stříbrná,['Kraslice']
@@ -4675,24 +4558,20 @@ Stříbrné Hory,['Havlíčkův Brod']
 Stříbro,['Stříbro']
 Stříbřec,['Třeboň']
 Střílky,['Kroměříž']
-Střítež,"['Kaplice', 'Bystřice nad Pernštejnem', 'Jihlava', 'Pelhřimov', 'Třebíč', 'Třinec']"
+Střítež,"['Jihlava', 'Pelhřimov', 'Bystřice nad Pernštejnem', 'Třinec', 'Kaplice', 'Třebíč']"
 Střítež nad Bečvou,['Valašské Meziříčí']
 Střítež nad Ludinou,['Hranice']
 Střítež pod Křemešníkem,['Pelhřimov']
 Střížkov,['Praha']
 Střížkov-Lovosická,['Praha']
-Střížkov-Lovosická-jih,['Praha']
-Střížkov-sever,['Praha']
-Střížkov-východ,['Praha']
 Střížov,['České Budějovice']
-Střížovice,"['Jindřichův Hradec', 'Blovice', 'Kroměříž']"
-Suchdol,"['Kutná Hora', 'Konice', 'Praha']"
+Střížovice,"['Jindřichův Hradec', 'Kroměříž', 'Blovice']"
+Suchdol,"['Konice', 'Kutná Hora', 'Praha']"
 Suchdol nad Lužnicí,['Třeboň']
 Suchdol nad Odrou,['Nový Jičín']
 Suchdol-Holubí,['Praha']
 Suchdol-Výhledy,['Praha']
 Suchdol-střed,['Praha']
-Suchdol-západ,['Praha']
 Suchodol,['Příbram']
 Suchohrdly,['Znojmo']
 Suchohrdly u Miroslavi,['Moravský Krumlov']
@@ -4705,7 +4584,7 @@ Suchá Lhota,['Litomyšl']
 Suchá Loz,['Uherský Brod']
 Suchý,['Boskovice']
 Suchý Důl,['Náchod']
-Sudice,"['Náměšť nad Oslavou', 'Boskovice', 'Kravaře']"
+Sudice,"['Boskovice', 'Kravaře', 'Náměšť nad Oslavou']"
 Sudislav nad Orlicí,['Ústí nad Orlicí']
 Sudkov,['Šumperk']
 Sudoměř,['Mladá Boleslav']
@@ -4723,11 +4602,11 @@ Sulislav,['Stříbro']
 Sulkovec,['Bystřice nad Pernštejnem']
 Sulíkov,['Boskovice']
 Supíkovice,['Jeseník']
-Sušice,"['Sušice', 'Přerov', 'Uherské Hradiště']"
+Sušice,"['Uherské Hradiště', 'Přerov', 'Sušice']"
 Svatava,['Sokolov']
 Svatobořice-Mistřín,['Kyjov']
 Svatojanský Újezd,['Jičín']
-Svatoslav,"['Třebíč', 'Tišnov']"
+Svatoslav,"['Tišnov', 'Třebíč']"
 Svatoňovice,['Vítkov']
 Svatá,['Beroun']
 Svatá Markéta,['Praha']
@@ -4744,7 +4623,7 @@ Svijany,['Turnov']
 Svinaře,['Beroun']
 Svinařov,['Kladno']
 Svinošice,['Blansko']
-Sviny,"['Soběslav', 'Velké Meziříčí']"
+Sviny,"['Velké Meziříčí', 'Soběslav']"
 Svinčany,['Přelouč']
 Svitavy,['Svitavy']
 Svitávka,['Boskovice']
@@ -4755,21 +4634,21 @@ Svojek,['Jilemnice']
 Svojetice,['Říčany']
 Svojetín,['Rakovník']
 Svojkov,['Nový Bor']
-Svojkovice,"['Rokycany', 'Telč']"
-Svojšice,"['Kolín', 'Příbram', 'Přelouč']"
+Svojkovice,"['Telč', 'Rokycany']"
+Svojšice,"['Příbram', 'Přelouč', 'Kolín']"
 Svojšín,['Stříbro']
 Svor,['Nový Bor']
 Svrabov,['Tábor']
 Svratka,['Žďár nad Sázavou']
 Svratouch,['Hlinsko']
 Svrkyně,['Černošice']
-Svárov,"['Kladno', 'Uherské Hradiště']"
+Svárov,"['Uherské Hradiště', 'Kladno']"
 Svébohov,['Zábřeh']
 Svémyslice,['Brandýs n. Lab.-St.Boleslav']
 Svépravice,['Pelhřimov']
 Svéradice,['Horažďovice']
 Svésedlice,['Olomouc']
-Svídnice,"['Kostelec nad Orlicí', 'Chrudim']"
+Svídnice,"['Chrudim', 'Kostelec nad Orlicí']"
 Světce,['Jindřichův Hradec']
 Světec,['Bílina']
 Světice,['Říčany']
@@ -4791,27 +4670,22 @@ Sytno,['Stříbro']
 Syřenov,['Semily']
 Sádek,"['Příbram', 'Polička']"
 Sány,['Poděbrady']
-Sázava,"['Benešov', 'Lanškroun', 'Žďár nad Sázavou']"
+Sázava,"['Žďár nad Sázavou', 'Benešov', 'Lanškroun']"
 Sázavka,['Světlá nad Sázavou']
-Sídliště Bohnice-jihovýchod,['Praha']
-Sídliště Bohnice-jihozápad,['Praha']
-Sídliště Bohnice-východ,['Praha']
-Sídliště Bohnice-západ,['Praha']
+Sídliště Bohnice,['Praha']
 Sídliště Jalodvorská,['Praha']
 Sídliště Krč,['Praha']
 Sídliště Lhotka,['Praha']
 Sídliště Libuš,['Praha']
 Sídliště Michelská,['Praha']
+Sídliště Modřany,['Praha']
 Sídliště Modřany-Nad roklí,['Praha']
-Sídliště Modřany-západ,['Praha']
 Sídliště Spořilov I,['Praha']
-Sídliště Spořilov I-východ,['Praha']
 Sídliště Řepy I,['Praha']
-Sídliště Řepy II-jih,['Praha']
-Sídliště Řepy II-sever,['Praha']
+Sídliště Řepy II,['Praha']
 Sýkořice,['Rakovník']
 Tachlovice,['Černošice']
-Tachov,"['Tachov', 'Česká Lípa']"
+Tachov,"['Česká Lípa', 'Tachov']"
 Tanvald,['Tanvald']
 Tasov,"['Velké Meziříčí', 'Veselí nad Moravou']"
 Tasovice,"['Boskovice', 'Znojmo']"
@@ -4823,10 +4697,10 @@ Tatrovice,['Sokolov']
 Tavíkovice,['Moravský Krumlov']
 Tašov,['Ústí nad Labem']
 Tchořovice,['Blatná']
-Tehov,"['Říčany', 'Vlašim']"
+Tehov,"['Vlašim', 'Říčany']"
 Tehovec,['Říčany']
 Telecí,['Polička']
-Telnice,"['Ústí nad Labem', 'Šlapanice']"
+Telnice,"['Šlapanice', 'Ústí nad Labem']"
 Telč,['Telč']
 Temelín,['Týn nad Vltavou']
 Temešvár,['Písek']
@@ -4836,7 +4710,7 @@ Teplice nad Metují,['Broumov']
 Teplička,['Karlovy Vary']
 Teplá,['Mariánské Lázně']
 Teplýšovice,['Benešov']
-Terezín,"['Litoměřice', 'Hodonín']"
+Terezín,"['Hodonín', 'Litoměřice']"
 Terešov,['Rokycany']
 Tetov,['Přelouč']
 Tetín,"['Beroun', 'Hořice']"
@@ -4851,13 +4725,13 @@ Tis u Blatna,['Kralovice']
 Tisem,['Benešov']
 Tismice,['Český Brod']
 Tisovec,['Hlinsko']
-Tisová,"['Tachov', 'Vysoké Mýto']"
+Tisová,"['Vysoké Mýto', 'Tachov']"
 Tisá,['Ústí nad Labem']
 Tišice,['Neratovice']
 Tišnov,['Tišnov']
 Tišnovská Nová Ves,['Tišnov']
 Tištín,['Prostějov']
-Tlumačov,"['Domažlice', 'Otrokovice']"
+Tlumačov,"['Otrokovice', 'Domažlice']"
 Tlustice,['Hořovice']
 Tlučná,['Nýřany']
 Tmaň,['Beroun']
@@ -4882,13 +4756,13 @@ Trhové Dušníky,['Příbram']
 Trhové Sviny,['Trhové Sviny']
 Trhový Štěpánov,['Vlašim']
 Trmice,['Ústí nad Labem']
-Trnava,"['Třebíč', 'Vizovice']"
+Trnava,"['Vizovice', 'Třebíč']"
 Trnkov,['Praha']
 Trnov,['Dobruška']
 Trnovany,['Litoměřice']
 Trnová,"['Černošice', 'Nýřany']"
 Trnové Pole,['Moravský Krumlov']
-Trnávka,"['Přelouč', 'Kopřivnice']"
+Trnávka,"['Kopřivnice', 'Přelouč']"
 Troja,['Praha']
 Trojanovice,['Frenštát pod Radhoštěm']
 Trojovice,['Chrudim']
@@ -4905,7 +4779,7 @@ Trpišovice,['Světlá nad Sázavou']
 Trpík,['Lanškroun']
 Trpín,['Polička']
 Trpísty,['Stříbro']
-Trstěnice,"['Mariánské Lázně', 'Litomyšl', 'Moravský Krumlov']"
+Trstěnice,"['Moravský Krumlov', 'Litomyšl', 'Mariánské Lázně']"
 Trubská,['Beroun']
 Trubín,['Beroun']
 Truskovice,['Vodňany']
@@ -4930,10 +4804,10 @@ Turovec,['Tábor']
 Turovice,['Přerov']
 Tursko,['Černošice']
 Tutleky,['Kostelec nad Orlicí']
-Tučapy,"['Soběslav', 'Vyškov', 'Uherské Hradiště']"
+Tučapy,"['Uherské Hradiště', 'Vyškov', 'Soběslav']"
 Tučín,['Přerov']
 Tuř,['Jičín']
-Tuřany,"['Slaný', 'Cheb']"
+Tuřany,"['Cheb', 'Slaný']"
 Tuřice,['Mladá Boleslav']
 Tušovice,['Příbram']
 Tužice,['Horažďovice']
@@ -4947,7 +4821,6 @@ Tvrzice,['Prachatice']
 Tymákov,['Plzeň']
 Tyršův vrch,['Praha']
 Tábor,"['Tábor', 'Praha']"
-Tábor-západ,['Praha']
 Tálín,['Písek']
 Tísek,['Bílovec']
 Týn nad Bečvou,['Lipník nad Bečvou']
@@ -4963,7 +4836,7 @@ Těchařovice,['Příbram']
 Těchlovice,"['Děčín', 'Hradec Králové']"
 Těchobuz,['Pacov']
 Těchonín,['Žamberk']
-Těmice,"['Pelhřimov', 'Kyjov']"
+Těmice,"['Kyjov', 'Pelhřimov']"
 Těně,['Rokycany']
 Těrlicko,['Havířov']
 Těšany,['Židlochovice']
@@ -4990,7 +4863,6 @@ Třebom,['Kravaře']
 Třebonice,['Praha']
 Třebonín,['Čáslav']
 Třeboradice,['Praha']
-Třeboradice-sever,['Praha']
 Třeboradice-střed,['Praha']
 Třeboradice-teplárna,['Praha']
 Třeboradice-za tratí,['Praha']
@@ -5034,27 +4906,23 @@ U Cholupického potoka,['Praha']
 U Chuchelského háje,['Praha']
 U Císařky,['Praha']
 U Císařské louky,['Praha']
+U Dalejského potoka,['Praha']
 U Dalejského potoka-pod Ohradou,['Praha']
-U Dalejského potoka-východ,['Praha']
-U Dalejského potoka-západ,['Praha']
 U Divoké Šárky,['Praha']
 U Dolní Liboce,['Praha']
 U Dolních Kobylis,['Praha']
 U Dolních Počernic,['Praha']
 U Děkanky,['Praha']
-U Fidlovačky-východ,['Praha']
-U Fidlovačky-západ,['Praha']
+U Fidlovačky,['Praha']
 U Flory,['Praha']
 U Hagiboru,['Praha']
-U Hagiboru-západ,['Praha']
 U Harfy,['Praha']
 U Horních Roztyl,['Praha']
 U Hrachovky-botanická zahrada,['Praha']
 U Hrnčířů,['Praha']
 U Hájku,['Praha']
 U Internationálu,['Praha']
-U Jahodnice-východ,['Praha']
-U Jahodnice-západ,['Praha']
+U Jahodnice,['Praha']
 U Jezerky,['Praha']
 U Jižní spojky,['Praha']
 U Kamýka,['Praha']
@@ -5102,20 +4970,15 @@ U křížku,['Praha']
 U libeňského zámku,['Praha']
 U malostranského hřbitova,['Praha']
 U michelské plynárny,['Praha']
-U michelské plynárny-východ,['Praha']
 U mostu Barikádníků,['Praha']
 U motolské nemocnice,['Praha']
 U muzea,['Praha']
 U nové louky,['Praha']
 U soudu,['Praha']
 U starých rybníků,['Praha']
-U starých rybníků-jih,['Praha']
-U starých rybníků-západ,['Praha']
-U studánky-východ,['Praha']
-U studánky-západ,['Praha']
+U studánky,['Praha']
 U svobodárny,['Praha']
 U teplárny,['Praha']
-U teplárny-jih,['Praha']
 U topolu,['Praha']
 U vysílače,['Praha']
 U záběhlického zámku,['Praha']
@@ -5123,12 +4986,10 @@ U Čakovic,['Praha']
 U Čechových sadů,['Praha']
 U Čekala,['Praha']
 U Čelakovského sadů,['Praha']
-U Černého Mostu-východ,['Praha']
-U Černého Mostu-západ,['Praha']
+U Černého Mostu,['Praha']
 U Čimického háje,['Praha']
 U Říčan,['Praha']
 U Šeberáku,['Praha']
-U Šeberáku-východ,['Praha']
 U Štvanice,['Praha']
 U železničního mostu,['Praha']
 Ublo,['Vizovice']
@@ -5144,13 +5005,10 @@ Uhlířov,['Opava']
 Uhlířská Lhota,['Kolín']
 Uhlířské Janovice,['Kutná Hora']
 Uhy,['Slaný']
-Uhřice,"['Boskovice', 'Bučovice', 'Kyjov', 'Kroměříž']"
+Uhřice,"['Boskovice', 'Kroměříž', 'Bučovice', 'Kyjov']"
 Uhřičice,['Přerov']
 Uhřínov,['Velké Meziříčí']
 Uhříněves,['Praha']
-Uhříněves-sever,['Praha']
-Uhříněves-východ,['Praha']
-Uhříněves-západ,['Praha']
 Ujkovice,['Mladá Boleslav']
 Ujčov,['Bystřice nad Pernštejnem']
 Unhošť,['Kladno']
@@ -5158,7 +5016,7 @@ Uničov,['Uničov']
 Unkovice,['Židlochovice']
 Unín,['Tišnov']
 Unčín,['Bystřice nad Pernštejnem']
-Urbanice,"['Hradec Králové', 'Přelouč']"
+Urbanice,"['Přelouč', 'Hradec Králové']"
 Urbanov,['Telč']
 Určice,['Prostějov']
 Uzenice,['Blatná']
@@ -5170,7 +5028,7 @@ V dymači,['Praha']
 V hájcích,['Praha']
 V křížcích,['Praha']
 V poustkách,['Praha']
-V úžlabině-západ,['Praha']
+V úžlabině,['Praha']
 V Čelakovského sadech,['Praha']
 V černém rybníce,['Praha']
 Vacenovice,['Kyjov']
@@ -5191,7 +5049,7 @@ Valeč,"['Karlovy Vary', 'Třebíč']"
 Valkeřice,['Děčín']
 Valtice,['Břeclav']
 Valtrovice,['Znojmo']
-Valy,"['Mariánské Lázně', 'Přelouč']"
+Valy,"['Přelouč', 'Mariánské Lázně']"
 Valšov,['Bruntál']
 Vamberk,['Rychnov nad Kněžnou']
 Vanov,['Telč']
@@ -5316,7 +5174,7 @@ Verušičky,['Karlovy Vary']
 Ves Touškov,['Stod']
 Vesce,['Soběslav']
 Veselice,['Mladá Boleslav']
-Veselá,"['Rokycany', 'Semily', 'Pelhřimov', 'Vizovice']"
+Veselá,"['Vizovice', 'Semily', 'Rokycany', 'Pelhřimov']"
 Veselé,['Děčín']
 Veselí,['Přelouč']
 Veselí nad Lužnicí,['Soběslav']
@@ -5337,19 +5195,18 @@ Vidochov,['Nová Paka']
 Vidonín,['Velké Meziříčí']
 Vidov,['České Budějovice']
 Vidrholec,['Praha']
-Vidrholec-sever,['Praha']
 Vidče,['Rožnov pod Radhoštěm']
 Vigantice,['Rožnov pod Radhoštěm']
 Vikantice,['Šumperk']
 Vikýřovice,['Šumperk']
 Vilantice,['Dvůr Králové nad Labem']
 Vilice,['Tábor']
-Vilémov,"['Kadaň', 'Rumburk', 'Chotěboř', 'Litovel']"
+Vilémov,"['Chotěboř', 'Kadaň', 'Litovel', 'Rumburk']"
 Vilémovice,"['Světlá nad Sázavou', 'Blansko']"
 Vimperk,['Vimperk']
 Vinary,"['Nový Bydžov', 'Vysoké Mýto']"
 Vinaře,['Čáslav']
-Vinařice,"['Beroun', 'Kladno', 'Mladá Boleslav', 'Louny']"
+Vinařice,"['Mladá Boleslav', 'Beroun', 'Kladno', 'Louny']"
 Vincencov,['Prostějov']
 Vinec,['Mladá Boleslav']
 Vinice,['Praha']
@@ -5364,7 +5221,7 @@ Vitín,['České Budějovice']
 Vitčice,['Prostějov']
 Vitějovice,['Prachatice']
 Vizovice,['Vizovice']
-Višňová,"['Příbram', 'Jindřichův Hradec', 'Frýdlant']"
+Višňová,"['Jindřichův Hradec', 'Příbram', 'Frýdlant']"
 Višňové,['Znojmo']
 Vižina,['Hořovice']
 Vlachova Lhota,['Valašské Klobouky']
@@ -5373,20 +5230,20 @@ Vlachovo Březí,['Prachatice']
 Vladislav,['Třebíč']
 Vlasatice,['Pohořelice']
 Vlastec,['Písek']
-Vlastiboř,"['Soběslav', 'Železný Brod']"
+Vlastiboř,"['Železný Brod', 'Soběslav']"
 Vlastibořice,['Turnov']
 Vlastislav,['Lovosice']
 Vlastějovice,['Kutná Hora']
 Vlačice,['Čáslav']
 Vlašim,['Vlašim']
 Vlkaneč,['Čáslav']
-Vlkanov,"['Domažlice', 'Světlá nad Sázavou']"
+Vlkanov,"['Světlá nad Sázavou', 'Domažlice']"
 Vlkančice,['Říčany']
 Vlkava,['Mladá Boleslav']
-Vlkov,"['České Budějovice', 'Soběslav', 'Jaroměř', 'Velké Meziříčí']"
+Vlkov,"['Velké Meziříčí', 'České Budějovice', 'Soběslav', 'Jaroměř']"
 Vlkov pod Oškobrhem,['Poděbrady']
 Vlkovice,['Mariánské Lázně']
-Vlkoš,"['Kyjov', 'Přerov']"
+Vlkoš,"['Přerov', 'Kyjov']"
 Vlksice,['Milevsko']
 Vlčatín,['Třebíč']
 Vlčetínec,['Jindřichův Hradec']
@@ -5406,11 +5263,11 @@ Vodičkova,['Praha']
 Vodochody,['Brandýs n. Lab.-St.Boleslav']
 Vodranty,['Čáslav']
 Vodslivy,['Benešov']
-Voděrady,"['Rychnov nad Kněžnou', 'Ústí nad Orlicí', 'Boskovice']"
+Voděrady,"['Boskovice', 'Ústí nad Orlicí', 'Rychnov nad Kněžnou']"
 Vodňany,['Vodňany']
 Vohančice,['Tišnov']
 Vojkov,['Votice']
-Vojkovice,"['Kralupy nad Vltavou', 'Ostrov', 'Židlochovice', 'Frýdek-Místek']"
+Vojkovice,"['Ostrov', 'Kralupy nad Vltavou', 'Frýdek-Místek', 'Židlochovice']"
 Vojníkov,['Písek']
 Vojnův Městec,['Žďár nad Sázavou']
 Vojslavice,['Humpolec']
@@ -5423,7 +5280,7 @@ Volanice,['Jičín']
 Volary,['Prachatice']
 Volduchy,['Rokycany']
 Volenice,"['Příbram', 'Strakonice']"
-Volevčice,"['Most', 'Telč']"
+Volevčice,"['Telč', 'Most']"
 Voleč,['Pardubice']
 Volfartice,['Česká Lípa']
 Volfířov,['Dačice']
@@ -5454,8 +5311,8 @@ Vraňany,['Mělník']
 Vražkov,['Roudnice nad Labem']
 Vražné,['Odry']
 Vrbatův Kostelec,['Chrudim']
-Vrbice,"['Poděbrady', 'Vimperk', 'Karlovy Vary', 'Roudnice nad Labem', 'Jičín', 'Kostelec nad Orlicí', 'Hustopeče']"
-Vrbičany,"['Slaný', 'Lovosice']"
+Vrbice,"['Poděbrady', 'Roudnice nad Labem', 'Vimperk', 'Hustopeče', 'Jičín', 'Karlovy Vary', 'Kostelec nad Orlicí']"
+Vrbičany,"['Lovosice', 'Slaný']"
 Vrbka,['Kroměříž']
 Vrbno nad Lesy,['Louny']
 Vrbno pod Pradědem,['Bruntál']
@@ -5483,17 +5340,14 @@ Vrábče,['České Budějovice']
 Vrátkov,['Český Brod']
 Vrátno,['Mladá Boleslav']
 Vráto,['České Budějovice']
-Vráž,"['Beroun', 'Písek']"
+Vráž,"['Písek', 'Beroun']"
 Vrážné,['Moravská Třebová']
 Vrčeň,['Nepomuk']
 Vršce,['Jičín']
-Vršovice,"['Louny', 'Opava', 'Praha']"
-Vršovice-sever,['Praha']
+Vršovice,"['Praha', 'Opava', 'Louny']"
 Vršovice-střed,['Praha']
 Vršovice-u Botiče,['Praha']
-Vršovice-východ,['Praha']
 Vršovice-výtopna,['Praha']
-Vršovice-západ,['Praha']
 Vršovické nádraží,['Praha']
 Vršovka,['Nové Město nad Metují']
 Vsetín,['Vsetín']
@@ -5506,15 +5360,14 @@ Vyskeř,['Turnov']
 Vyskytná,['Pelhřimov']
 Vyskytná nad Jihlavou,['Jihlava']
 Vysokov,['Náchod']
-Vysoká,"['Mělník', 'Moravská Třebová', 'Havlíčkův Brod', 'Krnov']"
+Vysoká,"['Krnov', 'Havlíčkův Brod', 'Mělník', 'Moravská Třebová']"
 Vysoká Lhota,['Pacov']
 Vysoká Libyně,['Kralovice']
 Vysoká Pec,"['Karlovy Vary', 'Chomutov']"
 Vysoká Srbská,['Náchod']
 Vysoká nad Labem,['Hradec Králové']
 Vysoká u Příbramě,['Příbram']
-Vysoká škola zemědělská-východ,['Praha']
-Vysoká škola zemědělská-západ,['Praha']
+Vysoká škola zemědělská,['Praha']
 Vysoké,['Žďár nad Sázavou']
 Vysoké Chvojno,['Holice']
 Vysoké Mýto,['Vysoké Mýto']
@@ -5525,10 +5378,9 @@ Vysoké Veselí,['Jičín']
 Vysoké nad Jizerou,['Semily']
 Vysoké školy,['Praha']
 Vysoký Chlumec,['Sedlčany']
-Vysoký Újezd,"['Benešov', 'Beroun', 'Hradec Králové']"
-Vysočany,"['Blansko', 'Znojmo', 'Praha']"
+Vysoký Újezd,"['Benešov', 'Hradec Králové', 'Beroun']"
+Vysočany,"['Praha', 'Znojmo', 'Blansko']"
 Vysočany-garáže,['Praha']
-Vysočany-jih,['Praha']
 Vysočany-průmyslový obvod,['Praha']
 Vysočina,['Hlinsko']
 Vystrkov,['Humpolec']
@@ -5567,7 +5419,7 @@ Vílanec,['Jihlava']
 Vír,['Bystřice nad Pernštejnem']
 Víska,['Chotěboř']
 Víska u Jevíčka,['Moravská Třebová']
-Vísky,"['Rokycany', 'Boskovice']"
+Vísky,"['Boskovice', 'Rokycany']"
 Vítanov,['Hlinsko']
 Vítkov,['Vítkov']
 Vítkovice,['Jilemnice']
@@ -5602,18 +5454,18 @@ Větřkovice,['Vítkov']
 Větřní,['Český Krumlov']
 Věšín,['Příbram']
 Věž,['Havlíčkův Brod']
-Věžky,"['Přerov', 'Kroměříž']"
-Věžnice,"['Havlíčkův Brod', 'Jihlava']"
+Věžky,"['Kroměříž', 'Přerov']"
+Věžnice,"['Jihlava', 'Havlíčkův Brod']"
 Věžnička,['Jihlava']
 Věžná,"['Bystřice nad Pernštejnem', 'Pacov']"
 Věžovatá Pláně,['Český Krumlov']
-Vřesina,"['Hlučín', 'Ostrava']"
+Vřesina,"['Ostrava', 'Hlučín']"
 Vřeskovice,['Klatovy']
 Vřesník,['Hořice']
-Vřesovice,"['Kyjov', 'Prostějov']"
+Vřesovice,"['Prostějov', 'Kyjov']"
 Vřesová,['Sokolov']
-Všechlapy,"['Nymburk', 'Vlašim']"
-Všechovice,"['Tišnov', 'Hranice']"
+Všechlapy,"['Vlašim', 'Nymburk']"
+Všechovice,"['Hranice', 'Tišnov']"
 Všehrdy,"['Kralovice', 'Chomutov']"
 Všejany,['Mladá Boleslav']
 Všekary,['Stod']
@@ -5625,8 +5477,8 @@ Všenory,['Černošice']
 Všepadly,['Domažlice']
 Všeradice,['Beroun']
 Všeradov,['Hlinsko']
-Všeruby,"['Domažlice', 'Nýřany']"
-Všestary,"['Říčany', 'Hradec Králové']"
+Všeruby,"['Nýřany', 'Domažlice']"
+Všestary,"['Hradec Králové', 'Říčany']"
 Všestudy,"['Kralupy nad Vltavou', 'Chomutov']"
 Všesulov,['Rakovník']
 Všetaty,"['Neratovice', 'Rakovník']"
@@ -5634,18 +5486,14 @@ Vševily,['Příbram']
 Všeň,['Turnov']
 Waltrovka,['Praha']
 Xaverov,"['Benešov', 'Praha']"
-Xaverov-východ,['Praha']
 Xaverovský háj,['Praha']
 Za Dolejším dvorem,['Praha']
 Za Hornoměcholupskou,['Praha']
 Za Invalidovnou,['Praha']
 Za Vidoulí,['Praha']
-Za Vidoulí-sever,['Praha']
-Za Vidoulí-západ,['Praha']
 Za chalupami-Na lipách,['Praha']
 Za fořtem,['Praha']
-Za horou-východ,['Praha']
-Za horou-západ,['Praha']
+Za horou,['Praha']
 Za humny,['Praha']
 Za poděbradskou silnicí,['Praha']
 Za střelnicí,['Praha']
@@ -5665,9 +5513,8 @@ Zahnašovice,['Holešov']
 Zahorčice,['Strakonice']
 Zahořany,"['Černošice', 'Domažlice']"
 Zahrada Kinských,['Praha']
+Zahradní Město,['Praha']
 Zahradní Město-střed,['Praha']
-Zahradní Město-východ,['Praha']
-Zahradní Město-západ,['Praha']
 Zahrádka,"['Nýřany', 'Náměšť nad Oslavou']"
 Zahrádky,"['Jindřichův Hradec', 'Česká Lípa']"
 Zahájí,['České Budějovice']
@@ -5692,8 +5539,7 @@ Zbinohy,['Jihlava']
 Zbiroh,['Rokycany']
 Zbizuby,['Kutná Hora']
 Zblovice,['Znojmo']
-Zborov,"['Zábřeh', 'Praha']"
-Zborov-východ,['Praha']
+Zborov,"['Praha', 'Zábřeh']"
 Zborovice,['Kroměříž']
 Zborovy,['Klatovy']
 Zbožíčko,['Nymburk']
@@ -5705,10 +5551,10 @@ Zbrašín,['Louny']
 Zbuzany,['Černošice']
 Zbyslavice,['Ostrava']
 Zbytiny,['Prachatice']
-Zbýšov,"['Čáslav', 'Rosice', 'Slavkov u Brna']"
+Zbýšov,"['Rosice', 'Čáslav', 'Slavkov u Brna']"
 Zběšičky,['Milevsko']
 Zbůch,['Nýřany']
-Zdechovice,"['Nový Bydžov', 'Přelouč']"
+Zdechovice,"['Přelouč', 'Nový Bydžov']"
 Zdelov,['Kostelec nad Orlicí']
 Zdemyslice,['Blovice']
 Zderaz,"['Chrudim', 'Praha']"
@@ -5730,7 +5576,7 @@ Zelená Hora,['Vyškov']
 Zelené město,['Praha']
 Zelené údolí,['Praha']
 Zemětice,['Stod']
-Zhoř,"['Milevsko', 'Stříbro', 'Jihlava', 'Tišnov']"
+Zhoř,"['Tišnov', 'Jihlava', 'Milevsko', 'Stříbro']"
 Zhoř u Mladé Vožice,['Tábor']
 Zhoř u Tábora,['Tábor']
 Zhořec,['Pacov']
@@ -5738,15 +5584,13 @@ Zichovec,['Slaný']
 Zlatníky-Hodkovice,['Černošice']
 Zlatá,['Brandýs n. Lab.-St.Boleslav']
 Zlatá Koruna,['Český Krumlov']
-Zlatá Olešnice,"['Tanvald', 'Trutnov']"
+Zlatá Olešnice,"['Trutnov', 'Tanvald']"
 Zlaté Hory,['Jeseník']
 Zlechov,['Uherské Hradiště']
 Zliv,['České Budějovice']
 Zličín,['Praha']
 Zličín-střed,['Praha']
 Zličín-střed II,['Praha']
-Zličín-východ,['Praha']
-Zličín-západ,['Praha']
 Zlobice,['Kroměříž']
 Zlonice,['Slaný']
 Zlonín,['Brandýs n. Lab.-St.Boleslav']
@@ -5765,12 +5609,12 @@ Zruč-Senec,['Nýřany']
 Zubrnice,['Ústí nad Labem']
 Zubčice,['Český Krumlov']
 Zubří,"['Nové Město na Moravě', 'Rožnov pod Radhoštěm']"
-Zvole,"['Černošice', 'Bystřice nad Pernštejnem', 'Zábřeh']"
+Zvole,"['Bystřice nad Pernštejnem', 'Černošice', 'Zábřeh']"
 Zvolenovice,['Telč']
 Zvoleněves,['Slaný']
 Zvotoky,['Strakonice']
 Zvánovice,['Říčany']
-Zvíkov,"['České Budějovice', 'Kaplice']"
+Zvíkov,"['Kaplice', 'České Budějovice']"
 Zvíkovec,['Rokycany']
 Zvíkovské Podhradí,['Písek']
 Zvěrkovice,['Moravské Budějovice']
@@ -5779,7 +5623,7 @@ Zvěstov,['Votice']
 Zvěstovice,['Havlíčkův Brod']
 Zvěřínek,['Nymburk']
 Zábeštní Lhota,['Přerov']
-Záblatí,"['Prachatice', 'Třeboň', 'Velké Meziříčí']"
+Záblatí,"['Velké Meziříčí', 'Třeboň', 'Prachatice']"
 Záborná,['Jihlava']
 Záboří,"['Blatná', 'České Budějovice']"
 Záboří nad Labem,['Kutná Hora']
@@ -5787,12 +5631,9 @@ Zábrdí,['Prachatice']
 Zábrodí,['Náchod']
 Záběhlice,['Praha']
 Záběhlice-průmyslový obvod,['Praha']
-Záběhlice-průmyslový obvod-jih,['Praha']
-Záběhlice-východ,['Praha']
-Záběhlice-západ,['Praha']
 Zábřeh,['Zábřeh']
 Zábřezí-Řečice,['Dvůr Králové nad Labem']
-Záchlumí,"['Stříbro', 'Žamberk']"
+Záchlumí,"['Žamberk', 'Stříbro']"
 Zádolí,['Vysoké Mýto']
 Zádub-Závišín,['Mariánské Lázně']
 Zádveřice-Raková,['Vizovice']
@@ -5824,7 +5665,7 @@ Zásmuky,['Kolín']
 Zástřizly,['Kroměříž']
 Zátor,['Krnov']
 Závada,['Hlučín']
-Závist,"['Blansko', 'Praha']"
+Závist,"['Praha', 'Blansko']"
 Závišice,['Kopřivnice']
 Závraty,['České Budějovice']
 Zářecká Lhota,['Vysoké Mýto']
@@ -5841,10 +5682,8 @@ Záříčí,['Kroměříž']
 Úhořilka,['Havlíčkův Brod']
 Úhřetice,['Chrudim']
 Úhřetická Lhota,['Pardubice']
-Újezd,"['Hořovice', 'Domažlice', 'Žďár nad Sázavou', 'Znojmo', 'Uničov', 'Valašské Klobouky', 'Praha']"
+Újezd,"['Hořovice', 'Valašské Klobouky', 'Domažlice', 'Znojmo', 'Uničov', 'Žďár nad Sázavou', 'Praha']"
 Újezd nad Lesy,['Praha']
-Újezd nad Lesy-jih,['Praha']
-Újezd nad Lesy-západ,['Praha']
 Újezd nade Mží,['Nýřany']
 Újezd pod Troskami,['Jičín']
 Újezd u Boskovic,['Boskovice']
@@ -5858,7 +5697,7 @@ Záříčí,['Kroměříž']
 Újezd u Svatého Kříže,['Rokycany']
 Újezd u Tišnova,['Tišnov']
 Újezd u Černé Hory,['Blansko']
-Újezdec,"['Kralupy nad Vltavou', 'Jindřichův Hradec', 'Prachatice', 'Litomyšl', 'Uherské Hradiště']"
+Újezdec,"['Kralupy nad Vltavou', 'Litomyšl', 'Jindřichův Hradec', 'Uherské Hradiště', 'Prachatice']"
 Újezdeček,['Teplice']
 Úlehle,['Strakonice']
 Úlibice,['Jičín']
@@ -5881,7 +5720,7 @@ Záříčí,['Kroměříž']
 Ústrašice,['Tábor']
 Ústrašín,['Pelhřimov']
 Ústup,['Boskovice']
-Ústí,"['Jihlava', 'Hranice', 'Vsetín']"
+Ústí,"['Vsetín', 'Hranice', 'Jihlava']"
 Ústí Nad Labem,['Ústí nad Labem']
 Ústí nad Orlicí,['Ústí nad Orlicí']
 Ústín,['Olomouc']
@@ -5898,18 +5737,14 @@ Záříčí,['Kroměříž']
 Úvaly,['Brandýs n. Lab.-St.Boleslav']
 Úřednická kolonie,['Praha']
 Úštěk,['Litoměřice']
-Úžice,"['Kralupy nad Vltavou', 'Kutná Hora']"
+Úžice,"['Kutná Hora', 'Kralupy nad Vltavou']"
 Čachotín,['Chotěboř']
 Čachovice,['Mladá Boleslav']
 Čachrov,['Klatovy']
 Čakov,"['Benešov', 'České Budějovice']"
 Čakovice,['Praha']
-Čakovice-jih,['Praha']
 Čakovice-průmyslový obvod,['Praha']
-Čakovice-sever,['Praha']
 Čakovice-střed,['Praha']
-Čakovice-východ,['Praha']
-Čakovice-západ,['Praha']
 Čakovický park,['Praha']
 Čakovičky,['Neratovice']
 Čaková,['Krnov']
@@ -5929,7 +5764,7 @@ Záříčí,['Kroměříž']
 Čechy pod Kosířem,['Prostějov']
 Čehovice,['Prostějov']
 Čejetice,['Strakonice']
-Čejkovice,"['Čáslav', 'České Budějovice', 'Hodonín', 'Znojmo']"
+Čejkovice,"['Hodonín', 'Znojmo', 'České Budějovice', 'Čáslav']"
 Čejov,['Humpolec']
 Čejč,['Hodonín']
 Čeladná,['Frýdlant nad Ostravicí']
@@ -5959,7 +5794,7 @@ Záříčí,['Kroměříž']
 Černousy,['Frýdlant']
 Černouček,['Roudnice nad Labem']
 Černov,['Pelhřimov']
-Černovice,"['Stod', 'Chomutov', 'Pelhřimov', 'Boskovice']"
+Černovice,"['Boskovice', 'Pelhřimov', 'Chomutov', 'Stod']"
 Černošice,['Černošice']
 Černošín,['Stříbro']
 Černožice,['Hradec Králové']
@@ -5980,11 +5815,10 @@ Záříčí,['Kroměříž']
 Černý Důl,['Vrchlabí']
 Černý Most,['Praha']
 Černý Most I,['Praha']
-Černý Most II-sever,['Praha']
+Černý Most II,['Praha']
 Černý Most II-střed,['Praha']
-Černý Most II-západ,['Praha']
 Černýšovice,['Tábor']
-Černčice,"['Louny', 'Nové Město nad Metují']"
+Černčice,"['Nové Město nad Metují', 'Louny']"
 Černěves,['Roudnice nad Labem']
 Červenka,['Litovel']
 Červená Hora,['Náchod']
@@ -6043,14 +5877,11 @@ Záříčí,['Kroměříž']
 Čimelice,['Písek']
 Čimice,['Praha']
 Čimice-Dopraváků,['Praha']
-Čimice-sever,['Praha']
 Čimice-střed,['Praha']
-Čimice-východ,['Praha']
-Čimice-západ,['Praha']
 Čimický háj,['Praha']
 Činěves,['Poděbrady']
 Čisovice,['Černošice']
-Čistá,"['Mladá Boleslav', 'Rakovník', 'Litomyšl']"
+Čistá,"['Mladá Boleslav', 'Litomyšl', 'Rakovník']"
 Čistá u Horek,['Jilemnice']
 Čistěves,['Hradec Králové']
 Čižice,['Přeštice']
@@ -6064,7 +5895,7 @@ Záříčí,['Kroměříž']
 Čáslav,['Čáslav']
 Čáslavice,['Třebíč']
 Čáslavsko,['Pacov']
-Částkov,"['Tachov', 'Uherské Hradiště']"
+Částkov,"['Uherské Hradiště', 'Tachov']"
 Číchov,['Třebíč']
 Číhalín,['Třebíč']
 Číhaň,['Klatovy']
@@ -6081,13 +5912,10 @@ Záříčí,['Kroměříž']
 Čížová,['Písek']
 Ďáblice,['Praha']
 Ďáblice-cihelna,['Praha']
-Ďáblice-jih,['Praha']
 Ďáblice-pod hájem,['Praha']
-Ďáblice-sever,['Praha']
 Ďáblice-statek,['Praha']
 Ďáblice-u hvězdárny,['Praha']
 Ďáblice-u hřbitova,['Praha']
-Ďáblice-východ,['Praha']
 Ďáblický hřbitov,['Praha']
 Řehenice,['Benešov']
 Řehlovice,['Ústí nad Labem']
@@ -6103,7 +5931,6 @@ Záříčí,['Kroměříž']
 Řeporyje,['Praha']
 Řepov,['Mladá Boleslav']
 Řepy,['Praha']
-Řepy-sever,['Praha']
 Řepín,['Mělník']
 Řestoky,['Chrudim']
 Řetová,['Ústí nad Orlicí']
@@ -6111,7 +5938,7 @@ Záříčí,['Kroměříž']
 Řevnice,['Černošice']
 Řevničov,['Rakovník']
 Řečany nad Labem,['Přelouč']
-Řečice,"['Humpolec', 'Nové Město na Moravě']"
+Řečice,"['Nové Město na Moravě', 'Humpolec']"
 Řeřichy,['Rakovník']
 Řikonín,['Tišnov']
 Řimovice,['Vlašim']
@@ -6136,7 +5963,7 @@ Záříčí,['Kroměříž']
 Šafránka,['Praha']
 Šakvice,['Hustopeče']
 Šance,['Praha']
-Šanov,"['Rakovník', 'Znojmo', 'Luhačovice']"
+Šanov,"['Znojmo', 'Luhačovice', 'Rakovník']"
 Šaplava,['Nový Bydžov']
 Šaratice,['Slavkov u Brna']
 Šardice,['Kyjov']
@@ -6184,7 +6011,7 @@ Záříčí,['Kroměříž']
 Štipoklasy,['Kutná Hora']
 Štoky,['Havlíčkův Brod']
 Štramberk,['Kopřivnice']
-Študlov,"['Svitavy', 'Valašské Klobouky']"
+Študlov,"['Valašské Klobouky', 'Svitavy']"
 Štvanice,['Praha']
 Štáblovice,['Opava']
 Štíhlice,['Říčany']
@@ -6206,27 +6033,24 @@ Záříčí,['Kroměříž']
 Štěpánov,['Olomouc']
 Štěpánov nad Svratkou,['Bystřice nad Pernštejnem']
 Štěpánovice,"['České Budějovice', 'Tišnov']"
-Štěpánský obvod-východ,['Praha']
-Štěpánský obvod-západ,['Praha']
+Štěpánský obvod,['Praha']
 Štěrboholy,['Praha']
 Štěrboholy-nákupní a výrobní zóna,['Praha']
 Štěrboholy-obchodní centra,['Praha']
 Štěrboholy-střed,['Praha']
 Štěrboholy-u teplárny,['Praha']
-Štěrboholy-západ,['Praha']
 Štětkovice,['Sedlčany']
 Štětí,['Litoměřice']
 Šubířov,['Konice']
 Šumavské Hoštice,['Vimperk']
-Šumice,"['Pohořelice', 'Uherský Brod']"
+Šumice,"['Uherský Brod', 'Pohořelice']"
 Šumná,['Znojmo']
 Šumperk,['Šumperk']
 Šumvald,['Uničov']
 Šutka,['Praha']
-Švihov,"['Rakovník', 'Klatovy']"
+Švihov,"['Klatovy', 'Rakovník']"
 Švábenice,['Vyškov']
-Švábky-východ,['Praha']
-Švábky-západ,['Praha']
+Švábky,['Praha']
 Švábov,['Jihlava']
 Šárecké údolí,['Praha']
 Šárovcova Lhota,['Jičín']
@@ -6245,11 +6069,11 @@ Záříčí,['Kroměříž']
 Žampach,['Žamberk']
 Žandov,['Česká Lípa']
 Žarošice,['Kyjov']
-Žatec,"['Žatec', 'Telč']"
+Žatec,"['Telč', 'Žatec']"
 Žatčany,['Židlochovice']
-Ždánice,"['Kolín', 'Bystřice nad Pernštejnem', 'Kyjov']"
+Ždánice,"['Bystřice nad Pernštejnem', 'Kyjov', 'Kolín']"
 Ždánov,['Domažlice']
-Ždírec,"['Blovice', 'Česká Lípa', 'Havlíčkův Brod', 'Jihlava']"
+Ždírec,"['Jihlava', 'Česká Lípa', 'Havlíčkův Brod', 'Blovice']"
 Ždírec nad Doubravou,['Chotěboř']
 Žebrák,['Hořovice']
 Žehuň,['Kolín']
@@ -6257,9 +6081,9 @@ Záříčí,['Kroměříž']
 Želatovice,['Přerov']
 Želechovice,['Uničov']
 Želechovice nad Dřevnicí,['Zlín']
-Želenice,"['Slaný', 'Most']"
+Želenice,"['Most', 'Slaný']"
 Želetava,['Moravské Budějovice']
-Želetice,"['Kyjov', 'Znojmo']"
+Želetice,"['Znojmo', 'Kyjov']"
 Železnice,['Jičín']
 Železná,['Beroun']
 Železná Ruda,['Klatovy']
@@ -6282,14 +6106,14 @@ Záříčí,['Kroměříž']
 Žernovice,['Prachatice']
 Žernovník,['Blansko']
 Žerotice,['Znojmo']
-Žerotín,"['Louny', 'Šternberk']"
+Žerotín,"['Šternberk', 'Louny']"
 Žerčice,['Mladá Boleslav']
 Žerůtky,"['Boskovice', 'Znojmo']"
 Žichlínek,['Lanškroun']
 Žichovice,['Sušice']
 Židlochovice,['Židlochovice']
 Židněves,['Mladá Boleslav']
-Židovice,"['Roudnice nad Labem', 'Jičín']"
+Židovice,"['Jičín', 'Roudnice nad Labem']"
 Židovské pece,['Praha']
 Žihle,['Kralovice']
 Žihobce,['Sušice']
@@ -6305,7 +6129,7 @@ Záříčí,['Kroměříž']
 Živanice,['Pardubice']
 Životice,['Nepomuk']
 Životice u Nového Jičína,['Nový Jičín']
-Žiželice,"['Kolín', 'Žatec']"
+Žiželice,"['Žatec', 'Kolín']"
 Žižice,['Slaný']
 Žižkov,['Praha']
 Žižkovo Pole,['Havlíčkův Brod']
@@ -6316,7 +6140,7 @@ Záříčí,['Kroměříž']
 Žlutice,['Karlovy Vary']
 Žulová,['Jeseník']
 Žumberk,['Chrudim']
-Županovice,"['Dobříš', 'Dačice']"
+Županovice,"['Dačice', 'Dobříš']"
 Žádovice,['Kyjov']
 Žákava,['Blovice']
 Žákovice,['Přerov']
@@ -6326,7 +6150,7 @@ Záříčí,['Kroměříž']
 Žárovná,['Vimperk']
 Žítková,['Uherský Brod']
 Žíšov,['Soběslav']
-Žďár,"['Mnichovo Hradiště', 'Rakovník', 'Jindřichův Hradec', 'Písek', 'Blansko']"
+Žďár,"['Blansko', 'Mnichovo Hradiště', 'Písek', 'Rakovník', 'Jindřichův Hradec']"
 Žďár nad Metují,['Náchod']
 Žďár nad Orlicí,['Kostelec nad Orlicí']
 Žďár nad Sázavou,['Žďár nad Sázavou']
