@@ -23,11 +23,11 @@ The project is organized as a set of Jupyter notebooks.
 
 ### Customization
 
-We tried to keep the setup robust. Aside from some context- and task-dependent details, the project can be adopted to other datasets.
+We tried to keep the setup robust. Aside from some context- and task-dependent details, the project can be adapted to other datasets.
 
 ### Results
 
-455 references to 115 locations have been identified. There are some false positives and some actual references are missed. This is a drawback of the lemmatization approach (e.g. lemmatizing separately the village name *Mydlovary* in the toponyms base and its grammatic forms in the text does not lead to a match). Possibly, the situation is better with the state-of-the-art models trained on UD 2.15 (http://hdl.handle.net/11234/1-5797), but we have not tried.
+486 references to 118 locations have been identified. There are some false positives, and some actual references are missed. This is a drawback of the lemmatization approach (e.g. lemmatizing separately the village name *Mydlovary* in the toponyms base and its grammatic forms in the text does not lead to a match). Possibly, the situation is better with the state-of-the-art models trained on UD 2.15 (http://hdl.handle.net/11234/1-5797), but we have not tried it.
 
 ![wordcloud](./svejk-geo-wordcloud.png)
 
